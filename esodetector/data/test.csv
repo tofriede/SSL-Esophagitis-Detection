@@ -1,0 +1,1440 @@
+dataset,image,class,origin_class,patient_id,fold
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/e197ce49-1900-4ba6-9bec-c89744f180af.jpg,esophagitis,esophagitis-a,1315,-1
+ers,ers/precise-samples/0673/samples/frames/000002.png,polyp,g45,673,-1
+ers,ers/precise-samples/0672/samples/frames/000006.png,varices,g36,672,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0a991bf9-8ea8-45d2-ab81-de44f3625321.jpg,normal,Gastroesophageal_junction_normal z-line,5158,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/87f3f32f-bb45-4937-b4a4-89ab82fb6b05.jpg,normal,retroflex-stomach,1939,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/76bbc107-e23e-454d-af31-08e67b6ad669.jpg,esophagitis,esophagitis-b-d,1644,-1
+ers,ers/precise-samples/0902/samples/frames/000015.png,normal,h02,902,-1
+gastrovision,gastrovision/Normal esophagus/0e28bf45-3361-453e-af5a-3ec79a05b315.jpg,normal,Normal esophagus,5386,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/b6c87e5c-0b28-493c-96be-73fbd5baac2a.jpg,normal,pylorus,4386,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/c3b134d8-f1ea-4707-bb9e-95c56da6ffe4.jpg,normal,retroflex-stomach,1925,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0bdf2ca4-b0e5-4606-b7ba-2d4801f64ebe.jpg,normal,Gastroesophageal_junction_normal z-line,5029,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/75923e83-0839-4beb-8ea3-ccc4d0135aa4.jpg,normal,z-line,2884,-1
+ers,ers/precise-samples/0425/samples/frames/000003.png,varices,g36,425,-1
+ers,ers/precise-samples/0155/samples/frames/000001.png,ulcer,g50,155,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/d3b06ae7-6e60-43ea-9faf-746d38f97cbe.jpg,esophagitis,esophagitis-a,1771,-1
+ers,ers/precise-samples/1010/samples/frames/000002.png,cancer,g39,1010,-1
+ers,ers/precise-samples/0015/samples/frames/000002.png,cancer,g39,15,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/ce6da62f-de69-4f06-b081-fe90123ae82f.jpg,normal,retroflex-stomach,2582,-1
+ers,ers/precise-samples/0781/samples/frames/000006.png,normal,h02,781,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/5c3b30ec-e18c-471f-94c2-7e69713ce015.jpg,esophagitis,esophagitis-a,1259,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts-short-segment/9b852df7-5851-4620-a3ec-1a43a0593171.jpg,barretts,barretts-short-segment,1205,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/f450afbb-ede3-4499-8493-cc1f1429deca.jpg,normal,retroflex-stomach,2816,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0ebc4742-1ce1-40eb-b520-6ec91add960d.jpg,normal,Gastroesophageal_junction_normal z-line,6496,-1
+gastrovision,gastrovision/Normal stomach/08bb7d5a-a1a4-4d75-8bb6-ee4458a7b220.jpg,normal,Normal stomach,6763,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/5d96f775-f7d6-419a-b65e-ca0902967b17.jpg,normal,pylorus,3781,-1
+gastrovision,gastrovision/Normal stomach/00f0e374-ea4f-4f71-8de2-6ae822b45e96.jpg,normal,Normal stomach,6735,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/8046d7d5-996a-4817-9003-5a51ce2be2e6.jpg,normal,pylorus,4236,-1
+ers,ers/precise-samples/0443/samples/frames/000001.png,varices,g53,443,-1
+ers,ers/precise-samples/0805/samples/frames/000001.png,ulcer,g18,805,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/cdbfe622-ffe0-462a-bbad-bf2324c4b342.jpg,esophagitis,esophagitis-b-d,1834,-1
+gastrovision,gastrovision/Pylorus/1a608c2b-454e-4e4d-862f-8907a4a8f730.jpg,normal,Pylorus,5471,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/8c29d701-61da-4cba-90af-b01d8480e6d4.jpg,normal,pylorus,2154,-1
+ers,ers/precise-samples/0954/samples/frames/000002.png,varices,g53,954,-1
+gastrovision,gastrovision/Pylorus/0dac225c-a5f5-4cfb-9c0a-5008d835f74b.jpg,normal,Pylorus,5644,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/39168203-15e6-46fa-9248-cd313f9c23cd.jpg,normal,pylorus,2163,-1
+ers,ers/precise-samples/0582/samples/frames/000002.png,polyp,g14,582,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/0564ca68-19a1-434b-ba86-ba108045ddf8.jpg,normal,retroflex-stomach,2279,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/9f48d821-56f7-4536-8836-1d5f09d859c0.jpg,esophagitis,esophagitis-a,1299,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ae0c78fd-a444-4a94-be79-56cd1e4cf8d9.jpg,normal,pylorus,2195,-1
+gastrovision,gastrovision/Normal stomach/0bce134e-3f70-4341-afe3-c7ad6beb1ba7.jpg,normal,Normal stomach,6149,-1
+ers,ers/precise-samples/0218/samples/frames/000001.png,ulcer,g50,218,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/018fc250-a81a-41c0-83af-0521dc455d26.jpg,esophagitis,esophagitis-b-d,1617,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/8cad3763-37fa-49c7-86c5-fdaed8d7fc31.jpg,normal,pylorus,3952,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/6223fd16-1636-4242-9951-461e755f3f1e.jpg,normal,pylorus,3865,-1
+webatlas,web_atlas/imgs/48.jpg,esophagitis,esophagitis,7,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/6d11fe83-23f1-462f-94f9-7f711d7e58f4.jpg,normal,retroflex-stomach,2731,-1
+ers,ers/precise-samples/0130/samples/frames/000002.png,esophagitis,g63,130,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/d406f6aa-b65a-4e3b-906d-7d6109f2e37a.jpg,esophagitis,esophagitis-a,1753,-1
+webatlas,web_atlas/imgs/47.jpg,esophagitis,esophagitis,7,-1
+ers,ers/precise-samples/0986/samples/frames/000003.png,ulcer,g19,986,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/b3ee5130-6a79-41da-93c1-378596774f58.jpg,normal,z-line,3313,-1
+gastrovision,gastrovision/Normal stomach/0a958077-aef1-41a6-a548-b65f2adda8ce.jpg,normal,Normal stomach,5839,-1
+gastrovision,gastrovision/Duodenal bulb/002c029d-3337-4058-9443-2abd18df0b5e.jpg,normal,Duodenal bulb,4933,-1
+ers,ers/precise-samples/0644/samples/frames/000003.png,ulcer,g50,644,-1
+gastrovision,gastrovision/Esophagitis/21109f95-9ca3-4e69-9d2f-13233ee07a3d.jpg,esophagitis,Esophagitis,4778,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/8b3a9619-4e00-444e-ac9a-e5a2e3d50041.jpg,normal,z-line,3014,-1
+gastrovision,gastrovision/Normal stomach/26c14062-bb68-4a07-9889-806fefaeea6e.jpg,normal,Normal stomach,5894,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/194ad0a1-4f05-4226-89c7-76074290378f.jpg,normal,Gastroesophageal_junction_normal z-line,6508,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/aee48766-9efb-494b-b9f5-12efcc73e427.jpg,normal,pylorus,2182,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/55d7dadf-08e4-4730-9aa6-0e1708042f87.jpg,normal,retroflex-stomach,2095,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/3250fbb4-cdf0-49e8-8dc8-66067f7e85cd.jpg,normal,Gastroesophageal_junction_normal z-line,6522,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/d21d3a03-302f-49f4-95e1-e5f01f60abcd.jpg,normal,z-line,3139,-1
+gastrovision,gastrovision/Normal stomach/0cb48ecd-dc12-46bd-9a03-1479111f0102.jpg,normal,Normal stomach,5871,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/03c47c88-742f-4db8-9464-5bb7ca600e20.jpg,normal,Gastroesophageal_junction_normal z-line,6514,-1
+ers,ers/precise-samples/0013/samples/frames/000002.png,ulcer,g18,13,-1
+gastrovision,gastrovision/Duodenal bulb/02e5b1e4-86b5-4c5c-be22-4fc56e01fb26.jpg,normal,Duodenal bulb,5124,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/1fcf8d4e-d55b-4396-bbcc-21176be16fbd.jpg,normal,Gastroesophageal_junction_normal z-line,6557,-1
+gastrovision,gastrovision/Barrett's esophagus/050f60b1-eeb8-450c-bd1a-51f424a876e3.jpg,barretts,Barrett's esophagus,4739,-1
+ers,ers/precise-samples/0672/samples/frames/000004.png,varices,g36,672,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/d283a811-7332-4548-b5fb-eaeca15df2b2.jpg,normal,pylorus,2124,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0acfab7b-e091-42ae-a674-5d61607c208a.jpg,normal,Gastroesophageal_junction_normal z-line,6556,-1
+ers,ers/precise-samples/0606/samples/frames/000019.png,normal,h03,606,-1
+gastrovision,gastrovision/Normal stomach/1a8a6fab-1b2c-4c1c-b8eb-5fd69d556c89.jpg,normal,Normal stomach,6772,-1
+ers,ers/precise-samples/0763/samples/frames/000007.png,varices,g36,763,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/e2526596-a120-42ed-ba5d-0e3c1552eef8.jpg,normal,pylorus,4436,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/2b97b73b-6030-4a53-ad64-4c4077692461.jpg,normal,retroflex-stomach,2571,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/0d4ba420-cb5c-4d3d-b3fa-d6cbcd6dd3fb.jpg,normal,pylorus,4007,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/664af9b4-2c69-4e7e-9dc0-279540e18276.jpg,normal,pylorus,2171,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/c6b0d73c-2105-460c-8d83-246c97140f0c.jpg,normal,retroflex-stomach,2572,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/09581582-febc-4809-b42d-335f578f7ed8.jpg,esophagitis,esophagitis-b-d,1652,-1
+webatlas,web_atlas/imgs/132.jpg,esophagitis,esophagitis,68,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/72d2bc17-5cc9-4350-8130-041c39da27c7.jpg,normal,pylorus,2199,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/a19763f6-2173-40a4-81ac-cd3190e93985.jpg,esophagitis,esophagitis-b-d,1880,-1
+gastrovision,gastrovision/Normal stomach/064537fb-872b-4726-be36-8ae6a62f4768.jpg,normal,Normal stomach,6407,-1
+gastrovision,gastrovision/Esophagitis/0f48be22-3df6-4155-817c-97d1c82ecb2c.jpg,esophagitis,Esophagitis,4842,-1
+gastrovision,gastrovision/Normal stomach/0a3f1d90-b3d3-4d1a-bd16-8a277b4ed4d4.jpg,normal,Normal stomach,6232,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/66fb100e-3bd3-4a68-b480-b0d0582a7507.jpg,normal,retroflex-stomach,1918,-1
+gastrovision,gastrovision/Pylorus/0b38abbc-c615-4b22-b264-223ff818f6dd.jpg,normal,Pylorus,5496,-1
+gastrovision,gastrovision/Normal stomach/03e53b31-6640-43ee-a2f8-08e9636bc57d.jpg,normal,Normal stomach,6099,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/3564d3a5-d992-4146-92d0-17e73e599f94.jpg,normal,z-line,3514,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/121a4b37-1ae0-4db7-8dc2-c07d18c8257d.jpg,normal,z-line,3116,-1
+ers,ers/precise-samples/0397/samples/frames/000001.png,polyp,g45,397,-1
+ers,ers/precise-samples/0773/samples/frames/000004.png,esophagitis,g63,773,-1
+ers,ers/precise-samples/0424/samples/frames/000004.png,ulcer,g18,424,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/08cc6220-6de1-41fe-9864-939b25f21783.jpg,normal,z-line,3650,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/f57fc00e-2f4f-498c-b679-e711dd2da101.jpg,esophagitis,esophagitis-a,1769,-1
+ers,ers/precise-samples/0673/samples/frames/000001.png,polyp,g45,673,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/7f62d881-eab3-4851-8cd7-ee90bb055326.jpg,normal,pylorus,3999,-1
+ers,ers/precise-samples/0067/samples/frames/000003.png,esophagitis,g67,67,-1
+ers,ers/precise-samples/0606/samples/frames/000012.png,normal,h03,606,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/f22bf116-f366-4473-a5da-58f7ff9deaef.jpg,normal,z-line,3358,-1
+ers,ers/precise-samples/0425/samples/frames/000005.png,varices,g36,425,-1
+gastrovision,gastrovision/Normal stomach/2222284b-ba68-4ed4-8195-0d3696fc4de4.jpg,normal,Normal stomach,6649,-1
+gastrovision,gastrovision/Normal esophagus/0bf1e929-adca-4d97-bada-07e35f18816f.jpg,normal,Normal esophagus,5381,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/fd34d718-d5be-45ee-aabb-61c9a7b17623.jpg,normal,pylorus,4321,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/ad822720-8811-4683-ad9c-35fe8636e519.jpg,normal,z-line,2995,-1
+gastrovision,gastrovision/Normal stomach/0b8843e9-8acf-4574-ba45-2560359b885f.jpg,normal,Normal stomach,6285,-1
+ers,ers/precise-samples/0902/samples/frames/000017.png,normal,h02,902,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/01b2f57a-babc-4a75-a409-67a278ace6e2.jpg,normal,Gastroesophageal_junction_normal z-line,6523,-1
+ers,ers/precise-samples/0902/samples/frames/000011.png,normal,h02,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/9cd15185-8ebd-41a4-aa9c-3542c4577862.jpg,esophagitis,esophagitis-a,1543,-1
+ers,ers/precise-samples/0397/samples/frames/000002.png,polyp,g45,397,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/707dc026-65ef-4911-a418-11c53a651896.jpg,normal,pylorus,3753,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/1090df93-e726-43fb-9a9e-f049a18d6c33.jpg,normal,z-line,2959,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts-short-segment/463c84ec-2e3e-46c4-9de7-f5f834b28010.jpg,barretts,barretts-short-segment,1198,-1
+gastrovision,gastrovision/Pylorus/2a6b7abc-bbf7-42d3-a7b5-296df1f96b2c.jpg,normal,Pylorus,5299,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/86a77116-57af-4560-90e4-44f6ab099876.jpg,normal,z-line,3632,-1
+ers,ers/precise-samples/0443/samples/frames/000008.png,varices,g36,443,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/22d65d54-061f-4e95-9dd1-fb09df5d3782.jpg,normal,z-line,3262,-1
+gastrovision,gastrovision/Pylorus/38740c51-ad28-452f-a665-a9a037dd67da.jpg,normal,Pylorus,5659,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/e4bcb8ea-075d-476c-a68b-936340c8c3cd.jpg,normal,pylorus,2331,-1
+ers,ers/precise-samples/0350/samples/frames/000001.png,varices,g36,350,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0fbb9ce8-955f-4a3c-9116-016c1bdf3782.jpg,normal,Gastroesophageal_junction_normal z-line,6566,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/4c367c18-5ed2-49ca-ad8b-157d7726a1e9.jpg,normal,retroflex-stomach,2114,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/03af8452-33aa-4dba-8b67-7928c763841e.jpg,normal,pylorus,4570,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/76c93ecb-b76e-4eaf-93ac-265df9eb344e.jpg,normal,pylorus,2244,-1
+gastrovision,gastrovision/Pylorus/1faf1697-4127-4b32-a501-37a81b9eafd6.jpg,normal,Pylorus,5522,-1
+ers,ers/precise-samples/0954/samples/frames/000004.png,varices,g53,954,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/10c3711f-d066-47d1-b2ef-41ced4c27dcb.jpg,esophagitis,esophagitis-a,1269,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/07a7383b-7068-4424-8271-e7c58c14616b.jpg,normal,z-line,3354,-1
+webatlas,web_atlas/imgs/125.jpg,esophagitis,esophagitis,67,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/98d6067b-f5a6-4316-a81f-28cf698140f2.jpg,normal,pylorus,4091,-1
+gastrovision,gastrovision/Duodenal bulb/02a3a6bd-786f-4cb7-91c2-24b2f2ad9646.jpg,normal,Duodenal bulb,4869,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/06ab8b9b-1d8b-4787-a2fa-0af8ed273935.jpg,normal,Gastroesophageal_junction_normal z-line,5009,-1
+gastrovision,gastrovision/Normal stomach/317aad14-a001-4904-8d22-a029c8ce6f01.jpg,normal,Normal stomach,6892,-1
+gastrovision,gastrovision/Esophagitis/00b5d6c2-508b-4b04-a4c2-ae73a6d29788.jpg,esophagitis,Esophagitis,4794,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/68008074-4cae-46ea-a941-d9584a7d6589.jpg,normal,z-line,3073,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/1264bee0-d899-4598-9a01-2fc44f031bda.jpg,normal,retroflex-stomach,2295,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/7c62e696-e09a-42fa-9800-d4d93b54d71c.jpg,normal,z-line,2899,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/e93dbfea-03c0-4bf0-b7ac-4f068342d7bc.jpg,esophagitis,esophagitis-a,1324,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/e24ef638-92a5-41c9-977a-9af9660f6d2a.jpg,esophagitis,esophagitis-b-d,1625,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/2f793dfe-a167-4b41-806c-28027a13ff2c.jpg,normal,retroflex-stomach,2627,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/b94ce3b2-fde5-4861-8f82-8a6f625a121f.jpg,esophagitis,esophagitis-a,1426,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/caa95d3f-e083-42b1-a9db-a03d37da9066.jpg,normal,z-line,3668,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/f6854054-5bd0-403e-ac7f-76e851ff8ae2.jpg,normal,z-line,3233,-1
+ers,ers/precise-samples/1010/samples/frames/000004.png,cancer,g39,1010,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/dd114729-d836-4da2-a56e-6137c33606e9.jpg,normal,pylorus,3854,-1
+gastrovision,gastrovision/Normal stomach/11a7136b-ed6c-4303-aa8f-b247d04fdb3b.jpg,normal,Normal stomach,6686,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/46f2c899-1332-414f-a51f-799c4d58ee18.jpg,normal,z-line,3360,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/c85b26c4-17f3-4a85-9074-afb98b31e601.jpg,esophagitis,esophagitis-a,1726,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/cfbfe379-fde6-4610-abcd-4c5f1aed3ba5.jpg,normal,retroflex-stomach,2633,-1
+webatlas,web_atlas/imgs/123.jpg,esophagitis,esophagitis,67,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/de010d57-52cc-4862-9aff-75a47393d871.jpg,normal,retroflex-stomach,2620,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/3764a21f-0ddb-42a7-a044-93e663272c76.jpg,normal,z-line,3549,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/f5fc5cc4-fd61-47a4-8bdb-c60e616f7e55.jpg,normal,pylorus,4375,-1
+gastrovision,gastrovision/Normal stomach/0f3f22d3-2635-4185-8e2f-399b14d0d0b2.jpg,normal,Normal stomach,5844,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/9e75673b-575d-4d10-94a2-a89c6edfb01d.jpg,normal,retroflex-stomach,2407,-1
+gastrovision,gastrovision/Normal stomach/3b1984e3-be08-44cb-a19d-68b9c80543ed.jpg,normal,Normal stomach,6314,-1
+gastrovision,gastrovision/Normal stomach/11f3e976-f9f8-4756-9a98-ba8c12b7bbd0.jpg,normal,Normal stomach,6238,-1
+ers,ers/precise-samples/0797/samples/frames/000001.png,ulcer,g18,797,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/fba99178-ce8d-4afe-bc8b-5f2664ba3595.jpg,esophagitis,esophagitis-a,1435,-1
+gastrovision,gastrovision/Normal esophagus/08844ea6-ebc3-4254-b496-8cc75c319df0.jpg,normal,Normal esophagus,5373,-1
+gastrovision,gastrovision/Normal stomach/0cb030b6-1dab-47f5-9181-bad2ec50aa27.jpg,normal,Normal stomach,5903,-1
+ers,ers/precise-samples/0443/samples/frames/000009.png,varices,g36,443,-1
+gastrovision,gastrovision/Duodenal bulb/047e751b-da4b-43dc-9900-c17135cdfa19.jpg,normal,Duodenal bulb,5194,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/b9702f77-4bdc-4bae-bb49-1ebf426bdb17.jpg,esophagitis,esophagitis-a,1720,-1
+webatlas,web_atlas/imgs/104.jpg,esophagitis,esophagitis,60,-1
+gastrovision,gastrovision/Pylorus/52412321-a28e-4787-a2c6-5380959bb4ea.jpg,normal,Pylorus,5210,-1
+webatlas,web_atlas/imgs/4.jpg,esophagitis,esophagitis,73,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/b09e1428-5a2e-4435-9c70-19f1280d15fa.jpg,normal,retroflex-stomach,2039,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/7dace8f5-00da-47e4-bd6f-649aaba05187.jpg,normal,z-line,3087,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/7f7f0983-0e65-43fb-98e2-21dcdee72723.jpg,normal,z-line,3337,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/2b86a9b3-34c3-432f-bf8d-3a92aa3e64de.jpg,esophagitis,esophagitis-a,1351,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/a85f4b71-f1bc-4702-bdc0-fea7b4a98a4e.jpg,normal,retroflex-stomach,2564,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/d9f6c286-0acf-4b2b-bf41-b232ea702306.jpg,normal,retroflex-stomach,1887,-1
+ers,ers/precise-samples/0305/samples/frames/000006.png,ulcer,g50,305,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/827bc001-a8ca-4cf5-b10e-24a975ad6337.jpg,normal,z-line,3666,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/34978a78-7cd9-4b65-b29a-1d97eca71618.jpg,normal,pylorus,3866,-1
+ers,ers/precise-samples/0740/samples/frames/000003.png,polyp,g45,740,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/23d58f2f-00eb-469c-883b-88e64c3de538.jpg,normal,pylorus,3902,-1
+ers,ers/precise-samples/0787/samples/frames/000004.png,normal,h01,787,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/84c259be-812c-4cf1-a59f-736f4ff2a2a6.jpg,normal,z-line,3304,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/196b0ef4-254f-4e9e-a24e-f14aa1ff34c5.jpg,normal,Gastroesophageal_junction_normal z-line,6474,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/3b8b78db-7588-458f-8d54-3544a429f80f.jpg,esophagitis,esophagitis-b-d,1835,-1
+gastrovision,gastrovision/Normal stomach/0d78ff9c-6bb8-4938-b18a-fe399e9662b1.jpg,normal,Normal stomach,5769,-1
+gastrovision,gastrovision/Normal stomach/16aa5f81-ac51-4216-a735-a6400bd96ae6.jpg,normal,Normal stomach,6863,-1
+gastrovision,gastrovision/Pylorus/067b623a-9013-47d0-b87c-fc309d27f34c.jpg,normal,Pylorus,5281,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/50df27ca-e259-49f3-8b0a-6c5e9283a9e7.jpg,normal,z-line,3535,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/6aee3b2d-1cb0-4544-8796-c38570d6302f.jpg,normal,z-line,2923,-1
+gastrovision,gastrovision/Duodenal bulb/1b0e3796-edef-46e5-bd80-c25ec545594f.jpg,normal,Duodenal bulb,4955,-1
+ers,ers/precise-samples/0582/samples/frames/000004.png,polyp,g14,582,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/942c031a-8d09-47ab-a578-ec648ff7d72a.jpg,normal,z-line,3331,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/5b18848f-5cbc-4cae-9004-b0f91edf1940.jpg,normal,z-line,3273,-1
+ers,ers/precise-samples/0781/samples/frames/000007.png,normal,h02,781,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/7f657b20-c567-44a7-95b1-f2efa1ecb154.jpg,normal,pylorus,4115,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/66f69e9f-666c-4c21-a6b5-581f5169330a.jpg,normal,pylorus,4442,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/2332b990-90ce-44a0-840d-ab8bf70e6fee.jpg,esophagitis,esophagitis-a,1322,-1
+ers,ers/precise-samples/0398/samples/frames/000002.png,ulcer,g19,398,-1
+gastrovision,gastrovision/Normal stomach/0f9001d8-0796-4b83-9a60-846809c9bfa1.jpg,normal,Normal stomach,6868,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/156f791d-4503-4f89-a946-199594da0113.jpg,normal,pylorus,4044,-1
+gastrovision,gastrovision/Normal stomach/1e54163f-ddb5-4c73-8f85-f6401c5bdbee.jpg,normal,Normal stomach,5831,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/a674df8d-0f44-4fc6-b8f8-7c66f59fdf0d.jpg,normal,pylorus,4248,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/c2d6af14-0d17-40ca-b3eb-4f245375f12c.jpg,normal,z-line,3399,-1
+ers,ers/precise-samples/0443/samples/frames/000010.png,varices,g36,443,-1
+ers,ers/precise-samples/0992/samples/frames/000002.png,cancer,g26,992,-1
+gastrovision,gastrovision/Normal stomach/12f10d2a-6961-46c5-bc78-a945e511c517.jpg,normal,Normal stomach,6657,-1
+gastrovision,gastrovision/Normal esophagus/1f277013-d1b7-41a3-be1a-4e255ec5e35b.jpg,normal,Normal esophagus,5436,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/d6f4c0a5-f0b9-4bbf-ba50-97966bc1857b.jpg,normal,pylorus,4511,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/5034b226-e41e-4d09-a1b9-e47accaba26c.jpg,normal,pylorus,4464,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/c2a486e8-4430-49c8-8621-feea4cfe5579.jpg,normal,z-line,4291,-1
+gastrovision,gastrovision/Gastric polyps/8198bec1-b483-43a5-9fad-6aa868b16c36.jpg,polyp,Gastric polyps,4591,-1
+webatlas,web_atlas/imgs/120.jpg,esophagitis,esophagitis,66,-1
+gastrovision,gastrovision/Normal stomach/04b818c7-8979-4507-9a99-442c2e165957.jpg,normal,Normal stomach,6648,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/d8a3e950-4fa3-4cd0-8cb1-eca326d09769.jpg,normal,pylorus,2231,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/8034ef14-459b-4a46-95f8-cb392888f604.jpg,normal,pylorus,2173,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/037b9e2e-c791-4f90-9333-f53fc8a29b04.jpg,normal,Gastroesophageal_junction_normal z-line,5003,-1
+gastrovision,gastrovision/Normal stomach/09f4af95-64a5-4d86-86cb-e76b77ea7ad7.jpg,normal,Normal stomach,6687,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/484dcf2d-9e55-47b1-bc41-cead2f482627.jpg,normal,retroflex-stomach,2294,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0c38beda-0fe7-45de-9158-b020b877d4fb.jpg,normal,Gastroesophageal_junction_normal z-line,5061,-1
+gastrovision,gastrovision/Duodenal bulb/04455336-ed0c-40b9-bcde-9682c8dd1b8e.jpg,normal,Duodenal bulb,5145,-1
+ers,ers/precise-samples/0805/samples/frames/000002.png,ulcer,g18,805,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/715821b1-d28a-4b24-b1c7-c9b0281efb18.jpg,esophagitis,esophagitis-a,1767,-1
+gastrovision,gastrovision/Normal stomach/25418610-9e9f-46f3-af2d-0c2610f8bfa0.jpg,normal,Normal stomach,6670,-1
+gastrovision,gastrovision/Esophagitis/12aaf0fd-d7cd-4623-bc37-46082161b241.jpg,esophagitis,Esophagitis,4811,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/e5eaf7e6-56ba-4d48-8a8f-5a16fdb7eb28.jpg,normal,z-line,2976,-1
+ers,ers/precise-samples/0992/samples/frames/000013.png,varices,g53,992,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/01fec3f9-3593-438e-bb9e-8c492cc0c34d.jpg,normal,Gastroesophageal_junction_normal z-line,5071,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/a0ec2fdb-ec02-47ee-93f2-39369f29cb96.jpg,esophagitis,esophagitis-b-d,1630,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/61363f96-960a-4362-b6b8-2053279a1633.jpg,normal,z-line,3164,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/68b5d345-c6fd-4eac-875f-a0590d835035.jpg,normal,pylorus,4189,-1
+ers,ers/precise-samples/1016/samples/frames/000001.png,ulcer,g50,1016,-1
+ers,ers/precise-samples/0305/samples/frames/000003.png,ulcer,g50,305,-1
+ers,ers/precise-samples/0241/samples/frames/000010.png,polyp,g45,241,-1
+gastrovision,gastrovision/Normal stomach/0a0f4271-d89e-48f4-ac8c-a8fb13476323.jpg,normal,Normal stomach,6290,-1
+ers,ers/precise-samples/0606/samples/frames/000022.png,normal,h03,606,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/18643d64-dd0e-47e1-8b77-4eff904184ed.jpg,normal,Gastroesophageal_junction_normal z-line,6464,-1
+ers,ers/precise-samples/1111/samples/frames/000001.png,polyp,g14,1111,-1
+ers,ers/precise-samples/0964/samples/frames/000001.png,ulcer,g50,964,-1
+gastrovision,gastrovision/Normal stomach/02b255e8-17d6-439f-a30b-8ff4be5d231f.jpg,normal,Normal stomach,5765,-1
+gastrovision,gastrovision/Gastric polyps/8b290d3d-031c-4c9c-9c4c-aae7930fb01a.jpg,polyp,Gastric polyps,4617,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/1ad785a2-90b6-46f7-a07d-2fb3526dd4d3.jpg,normal,pylorus,3761,-1
+ers,ers/precise-samples/0902/samples/frames/000008.png,normal,h02,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/a5c00772-44ff-43a3-9971-c0c16a373fa9.jpg,normal,retroflex-stomach,1931,-1
+gastrovision,gastrovision/Pylorus/148185f3-c49f-4086-86e0-36c47d146db7.jpg,normal,Pylorus,5508,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/10a27f49-0356-4806-843f-90c527974256.jpg,normal,z-line,3612,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/12387aef-f679-4999-b88a-76219472edfd.jpg,normal,Gastroesophageal_junction_normal z-line,6600,-1
+gastrovision,gastrovision/Normal stomach/2bb6f396-18f8-4d3c-a606-7b0d0fb48463.jpg,normal,Normal stomach,6824,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/c0b68da7-89fb-436f-b5e6-1ece6438a474.jpg,esophagitis,esophagitis-b-d,1870,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/81717280-70f1-48ae-aa88-7ba0c8b966e9.jpg,normal,pylorus,4155,-1
+ers,ers/precise-samples/0954/samples/frames/000003.png,varices,g53,954,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/dffbf39b-010e-4fbe-a400-af2e30f6bc6d.jpg,normal,retroflex-stomach,2804,-1
+gastrovision,gastrovision/Pylorus/0d506d0d-a7b3-49c9-b13b-51b67330939f.jpg,normal,Pylorus,5264,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/fb1457d8-e7ec-4ef4-b152-573d473410ee.jpg,esophagitis,esophagitis-a,1270,-1
+gastrovision,gastrovision/Esophagitis/046d8c8c-9bec-4227-8265-60f75fe398dd.jpg,esophagitis,Esophagitis,4776,-1
+gastrovision,gastrovision/Esophagitis/08bfad93-952a-43d9-9e5b-685a3f7c9f32.jpg,esophagitis,Esophagitis,4772,-1
+ers,ers/precise-samples/0552/samples/frames/000002.png,varices,g36,552,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/87c8d747-9037-4e1d-9e3b-29a15275c47d.jpg,normal,z-line,3308,-1
+gastrovision,gastrovision/Normal stomach/070b6c4f-4021-47b7-9129-d5cbae859845.jpg,normal,Normal stomach,6835,-1
+gastrovision,gastrovision/Normal stomach/04a9ee42-1fc0-427f-87ce-e6da1409eaf9.jpg,normal,Normal stomach,5855,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/2759e11f-1e61-4b5f-b4e8-eb4b88b90273.jpg,normal,z-line,3691,-1
+ers,ers/precise-samples/0781/samples/frames/000009.png,normal,h02,781,-1
+gastrovision,gastrovision/Barrett's esophagus/341c2579-390b-491b-802b-1c1b25b03f25.jpg,barretts,Barrett's esophagus,4716,-1
+webatlas,web_atlas/imgs/67.jpg,esophagitis,esophagitis,23,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/7e24dea6-a833-4e61-a654-7afb2c4d58d6.jpg,normal,pylorus,2241,-1
+gastrovision,gastrovision/Normal stomach/0fb7eb95-f6ca-421b-ab14-abc9814dbb5b.jpg,normal,Normal stomach,5945,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/dd9a042d-7a76-43bd-b965-59114dc9ef10.jpg,normal,z-line,3497,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/30fb4019-ead1-4a4a-9c1e-e0ca4504cbc3.jpg,normal,z-line,3373,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/cc3923e2-1a69-4db8-ae43-ec4b877c8df6.jpg,normal,pylorus,3927,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/648d2501-e3a3-416f-a2f8-64da94fbaacd.jpg,normal,z-line,3533,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/584a8080-861e-4fe6-b2d7-efa1b1150b4a.jpg,normal,z-line,3554,-1
+ers,ers/precise-samples/0959/samples/frames/000003.png,polyp,g45,959,-1
+gastrovision,gastrovision/Pylorus/1ac3ae1e-b9d2-425d-bdf6-36e2cb14e4eb.jpg,normal,Pylorus,5606,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/3bd8a7c7-1862-4ffc-8b09-7aeb4ebbd89a.jpg,normal,pylorus,3910,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts-short-segment/c4b05b19-a861-4d69-8b01-57004367cf22.jpg,barretts,barretts-short-segment,1187,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts-short-segment/dc31d822-e062-4f78-813e-5f9b9ad2bcf7.jpg,barretts,barretts-short-segment,1197,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/eb72a65b-f8cd-42d2-8359-ac6229080e5e.jpg,normal,pylorus,3971,-1
+ers,ers/precise-samples/0986/samples/frames/000001.png,ulcer,g18,986,-1
+gastrovision,gastrovision/Normal stomach/1a0e00f3-7b2b-4ae1-91c8-d784cf04a18b.jpg,normal,Normal stomach,6078,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/09c42d59-afe9-42fc-8e75-a585a84541fa.jpg,normal,Gastroesophageal_junction_normal z-line,6361,-1
+gastrovision,gastrovision/Normal esophagus/0b5c079c-34a6-4dd9-9a97-c52572cbaf27.jpg,normal,Normal esophagus,5244,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/543ee79d-8735-4143-83ca-808ad4f4c53e.jpg,normal,z-line,3128,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/5d03f371-a326-48d4-b9f3-f782d1df1cea.jpg,normal,z-line,3037,-1
+ers,ers/precise-samples/0305/samples/frames/000001.png,ulcer,g50,305,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/7a1017a2-97f1-415b-88e4-30af08d41617.jpg,normal,z-line,4337,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/6486fa96-b874-4786-b32f-0c5ea43f2ba3.jpg,normal,pylorus,2190,-1
+ers,ers/precise-samples/0824/samples/frames/000003.png,barretts,g03,824,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0f9376c8-4dd6-400d-8a15-db61a7190b40.jpg,normal,Gastroesophageal_junction_normal z-line,6586,-1
+gastrovision,gastrovision/Duodenal bulb/0ac22dbc-8f24-4ff7-90ef-295a3e979afe.jpg,normal,Duodenal bulb,5136,-1
+ers,ers/precise-samples/0727/samples/frames/000001.png,ulcer,g18,727,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/22e0bc2f-623f-485f-818b-94b340b49e77.jpg,normal,retroflex-stomach,2709,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/d14ee3ca-ed27-4fb6-ae07-d00019db07b8.jpg,normal,retroflex-stomach,1951,-1
+ers,ers/precise-samples/0161/samples/frames/000002.png,ulcer,g50,161,-1
+ers,ers/precise-samples/0606/samples/frames/000015.png,normal,h03,606,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/7789a2c3-c8b4-4e36-9af2-7dc9e4981d24.jpg,normal,pylorus,4128,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/c2e95125-5a5a-44d5-bcdf-6fb620fdc5ca.jpg,normal,z-line,3569,-1
+gastrovision,gastrovision/Esophagitis/0b1ba58c-25e3-4a19-81d9-c8b581ad23e8.jpg,esophagitis,Esophagitis,4815,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/5b215291-88b4-4e7c-ae9a-7c2213f9ae4d.jpg,normal,pylorus,2165,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/88c21cfc-5d6c-4c8b-9d9a-7f161257faa1.jpg,esophagitis,esophagitis-b-d,1560,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/3b29cd58-20b4-4358-8a92-04735c222bf5.jpg,normal,pylorus,3770,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/63948f29-5124-42f7-a145-e258f2037acb.jpg,esophagitis,esophagitis-a,1314,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/e55f7261-c70e-401a-965a-755046b11eb7.jpg,normal,pylorus,3989,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/e03a7988-5318-42fb-8675-9c1e73b3798d.jpg,esophagitis,esophagitis-b-d,1853,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/2a2a67c4-793a-4a95-bd15-74738bd9bf06.jpg,esophagitis,esophagitis-a,1288,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/74d7629f-6845-4356-aae2-dbcfef6c1de3.jpg,normal,z-line,2979,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/53ae94e6-b411-48d7-b6c6-cdbca031a7b6.jpg,esophagitis,esophagitis-a,1380,-1
+gastrovision,gastrovision/Pylorus/0bffb4b7-2bfb-4302-955c-3cdaf435a624.jpg,normal,Pylorus,5240,-1
+ers,ers/precise-samples/0044/samples/frames/000005.png,cancer,g26,44,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/3a232a3a-f1db-4187-be31-dcaf21572a63.jpg,normal,retroflex-stomach,2497,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/40bb97ee-d6e0-4666-9fbd-064cf5f65436.jpg,esophagitis,esophagitis-a,1422,-1
+webatlas,web_atlas/imgs/129.jpg,esophagitis,esophagitis,68,-1
+ers,ers/precise-samples/0902/samples/frames/000006.png,normal,h02,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/5e753a3e-b601-450d-a202-e86067f88a66.jpg,normal,retroflex-stomach,2385,-1
+ers,ers/precise-samples/0781/samples/frames/000008.png,normal,h02,781,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/23a90846-67a4-4dd2-8e46-df67c2a8eae3.jpg,normal,z-line,3268,-1
+ers,ers/precise-samples/0066/samples/frames/000002.png,esophagitis,g67,66,-1
+gastrovision,gastrovision/Normal stomach/18c6dad0-d5b1-4339-afed-3a41d18c0b40.jpg,normal,Normal stomach,6133,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ae9a5eeb-e799-4bb8-995a-29dd3a6524a9.jpg,normal,pylorus,3799,-1
+ers,ers/precise-samples/0740/samples/frames/000004.png,polyp,g45,740,-1
+webatlas,web_atlas/imgs/62.jpg,esophagitis,esophagitis,18,-1
+ers,ers/precise-samples/0573/samples/frames/000001.png,ulcer,g52,573,-1
+gastrovision,gastrovision/Normal esophagus/13b13484-5e14-4ad0-9d8f-2b2cdd859586.jpg,normal,Normal esophagus,5434,-1
+gastrovision,gastrovision/Normal stomach/0e208cb1-7727-4c88-a9cf-95ff7b41350e.jpg,normal,Normal stomach,6755,-1
+gastrovision,gastrovision/Normal stomach/0c46df79-2d6f-4f9f-b40b-20d6e6b026d3.jpg,normal,Normal stomach,6389,-1
+ers,ers/precise-samples/0787/samples/frames/000001.png,normal,h01,787,-1
+ers,ers/precise-samples/0098/samples/frames/000005.png,ulcer,g50,98,-1
+gastrovision,gastrovision/Pylorus/0565c342-497a-4e6b-a8cc-ae1aa2795985.jpg,normal,Pylorus,5223,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/a844df6f-0270-4eab-b0af-3f361ebb2fd5.jpg,normal,retroflex-stomach,2778,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/9b015c4f-cf4f-4269-b5b8-9b68f6b7e1ef.jpg,normal,retroflex-stomach,2594,-1
+ers,ers/precise-samples/0899/samples/frames/000001.png,ulcer,g18,899,-1
+ers,ers/precise-samples/0902/samples/frames/000005.png,normal,h02,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/42296d4d-a0be-4e1e-ae02-556937e11373.jpg,esophagitis,esophagitis-a,1357,-1
+ers,ers/precise-samples/0015/samples/frames/000010.png,cancer,g39,15,-1
+gastrovision,gastrovision/Normal stomach/04df607c-f58a-4363-b37f-07a3472322a7.jpg,normal,Normal stomach,6040,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/00d0f5ef-b458-4c15-a224-ba925a39d79c.jpg,normal,pylorus,4387,-1
+gastrovision,gastrovision/Normal stomach/17e997a2-6a19-4ca5-b24f-9b52f8f5b4fb.jpg,normal,Normal stomach,6153,-1
+ers,ers/precise-samples/0007/samples/frames/000001.png,ulcer,g51,7,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/13b24a80-4ba3-4894-9665-b62c739ebf8d.jpg,normal,retroflex-stomach,2548,-1
+gastrovision,gastrovision/Normal stomach/0d81e4e8-9ac7-424c-8796-f09cbfe2a579.jpg,normal,Normal stomach,5849,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/c25c66b5-bf3b-419a-b2ab-4c90a15c8bc3.jpg,normal,retroflex-stomach,2691,-1
+gastrovision,gastrovision/Normal stomach/0ee3142b-836b-4340-9556-1636f6c08204.jpg,normal,Normal stomach,6752,-1
+gastrovision,gastrovision/Pylorus/255ecd25-3ff1-4b61-92d8-8513df83c346.jpg,normal,Pylorus,5333,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/91e1cbac-bc07-47c0-a1cc-d400afb88bd6.jpg,esophagitis,esophagitis-b-d,1611,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/de80ddee-b22f-48f8-8e39-7e3b778478fc.jpg,normal,pylorus,4064,-1
+ers,ers/precise-samples/0424/samples/frames/000005.png,cancer,g11,424,-1
+gastrovision,gastrovision/Normal stomach/044f1f6f-4c25-48f1-9cbb-b47d4386ad3b.jpg,normal,Normal stomach,6864,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/5f75195d-2e6b-4982-8a85-0fa7f13d06b4.jpg,normal,pylorus,4254,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/63a27046-7a86-461f-ac97-7eeff2455f81.jpg,normal,retroflex-stomach,2739,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/2c386965-be87-4e92-9743-fc46a6d86ad1.jpg,normal,z-line,2966,-1
+ers,ers/precise-samples/0172/samples/frames/000001.png,ulcer,g50,172,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/c13d100e-844b-487d-85ed-a880db143571.jpg,normal,z-line,3236,-1
+gastrovision,gastrovision/Gastric polyps/85354079-c3f7-48db-919f-c749be838ed9.jpg,polyp,Gastric polyps,4631,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/fbf3c36b-ecee-4b5c-b64c-6c7a95c6b8a1.jpg,normal,pylorus,4528,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/551de599-3fc9-462b-910b-656e4a26a993.jpg,esophagitis,esophagitis-b-d,1875,-1
+gastrovision,gastrovision/Normal stomach/0ddb6b8b-99f6-4072-87d8-65a6048b23a1.jpg,normal,Normal stomach,6800,-1
+gastrovision,gastrovision/Duodenal bulb/0ae04004-9985-4989-92f2-dcd22943f89b.jpg,normal,Duodenal bulb,5183,-1
+ers,ers/precise-samples/0425/samples/frames/000002.png,varices,g53,425,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/03d77575-cd71-4f9e-86f2-a447bffde472.jpg,normal,Gastroesophageal_junction_normal z-line,5068,-1
+ers,ers/precise-samples/0787/samples/frames/000006.png,normal,h01,787,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/dd886271-a261-4bed-b4a9-8efe897ff3d1.jpg,normal,retroflex-stomach,2413,-1
+ers,ers/precise-samples/0661/samples/frames/000002.png,barretts,g03,661,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/741533eb-a115-4bf7-95f1-9e19510b0b39.jpg,normal,z-line,3102,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/cdb9323a-d888-46ad-8d38-776c372392bb.jpg,normal,pylorus,3969,-1
+gastrovision,gastrovision/Pylorus/38753fcf-4a6c-46aa-ac22-7874b231bbc1.jpg,normal,Pylorus,5622,-1
+ers,ers/precise-samples/0443/samples/frames/000003.png,varices,g36,443,-1
+gastrovision,gastrovision/Normal stomach/07568cd5-ff5e-4af1-a837-5d5a87821dbd.jpg,normal,Normal stomach,6021,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/47faeb54-0358-4064-b480-aefc4a0225b3.jpg,esophagitis,esophagitis-b-d,1828,-1
+ers,ers/precise-samples/0023/samples/frames/000004.png,barretts,g03,23,-1
+ers,ers/precise-samples/0461/samples/frames/000001.png,polyp,g31,461,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/a43e7ce9-d166-437a-897c-722adcde84e1.jpg,normal,pylorus,4140,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/f4d911d8-696e-4f32-ae8f-6b727c04d4e3.jpg,normal,retroflex-stomach,2386,-1
+gastrovision,gastrovision/Pylorus/164ef507-bf04-4ee6-8b67-f55297f6dc00.jpg,normal,Pylorus,5649,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/5ca1a108-5d17-4376-b944-511458e51048.jpg,esophagitis,esophagitis-a,1794,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/fce23840-51c4-4cf2-8060-8f08284102bb.jpg,normal,z-line,3138,-1
+ers,ers/precise-samples/1010/samples/frames/000003.png,cancer,g39,1010,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/d7eaa92e-cdd5-416d-829c-b3742b54427a.jpg,normal,z-line,3674,-1
+ers,ers/precise-samples/0773/samples/frames/000001.png,esophagitis,g63,773,-1
+gastrovision,gastrovision/Normal stomach/3249cdcb-81b7-4d3d-a50b-f8ab4a18ee84.jpg,normal,Normal stomach,6261,-1
+gastrovision,gastrovision/Normal stomach/190bcb68-a4ec-4a17-b139-334381942765.jpg,normal,Normal stomach,6820,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/fdf96b04-09fd-485c-8a96-bf8807ef75f0.jpg,normal,z-line,3045,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/2a169147-728d-41b7-b437-fe5efea170bf.jpg,normal,pylorus,4235,-1
+gastrovision,gastrovision/Pylorus/028aab41-31b5-4815-aace-0580b51ad1d2.jpg,normal,Pylorus,5284,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0664ad24-7de4-4d9b-8d7f-e199edbe0ae2.jpg,normal,Gastroesophageal_junction_normal z-line,6482,-1
+ers,ers/precise-samples/0902/samples/frames/000019.png,normal,h02,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/85774064-6941-4b8b-861d-eba9e5dff1e2.jpg,normal,pylorus,4240,-1
+gastrovision,gastrovision/Normal stomach/0bdf79af-9173-49f4-a87c-44b6051b7806.jpg,normal,Normal stomach,5976,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/5eefecfd-9457-41fd-816f-0f4e5cc8f775.jpg,normal,pylorus,2263,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ccbc733c-b041-4104-89e5-d47ead6013c8.jpg,normal,pylorus,3738,-1
+ers,ers/precise-samples/0443/samples/frames/000002.png,varices,g36,443,-1
+gastrovision,gastrovision/Normal stomach/00c46a40-154e-4afa-84d7-4e6914fd49fc.jpg,normal,Normal stomach,5806,-1
+gastrovision,gastrovision/Normal stomach/0d07030b-114f-45d4-b719-faf8348a5098.jpg,normal,Normal stomach,6087,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/354bde5f-59b1-47c7-94a8-c6ee2f6b1cbb.jpg,esophagitis,esophagitis-a,1527,-1
+gastrovision,gastrovision/Normal stomach/0f673e41-3c30-427c-8881-bde3568bc23a.jpg,normal,Normal stomach,6201,-1
+ers,ers/precise-samples/0902/samples/frames/000016.png,normal,h02,902,-1
+gastrovision,gastrovision/Normal esophagus/030669ae-c8f0-4827-b3e4-1879b9cdcce5.jpg,normal,Normal esophagus,5442,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/d5cacf8e-b685-4fea-b1b5-e644c9d070a1.jpg,normal,z-line,3658,-1
+ers,ers/precise-samples/0787/samples/frames/000007.png,normal,h01,787,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/77d082f9-f858-4c68-bfa3-121c272fc5f3.jpg,esophagitis,esophagitis-a,1755,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/86b75225-837c-4b23-88af-0730cf8740f7.jpg,esophagitis,esophagitis-b-d,1622,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/c69f41a5-9e74-46bc-bd3b-d0a3735dc6c1.jpg,esophagitis,esophagitis-a,1411,-1
+ers,ers/precise-samples/0015/samples/frames/000014.png,cancer,g39,15,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0aaa03c0-e3dc-4d86-87ad-5576be15c151.jpg,normal,Gastroesophageal_junction_normal z-line,6558,-1
+ers,ers/precise-samples/0661/samples/frames/000003.png,barretts,g03,661,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/c87098df-04a0-4778-b186-2a80d738c633.jpg,normal,pylorus,4073,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/8737a1d5-dec6-4ba4-a97b-532b8733def8.jpg,normal,z-line,3312,-1
+gastrovision,gastrovision/Duodenal bulb/0d02b732-f260-42c6-a386-f5ec7120faa4.jpg,normal,Duodenal bulb,4865,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/1cc664f2-29db-4174-8183-f00f1364010b.jpg,esophagitis,esophagitis-a,1482,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/c1408fe5-5cfa-435b-a760-1eb671be77b9.jpg,normal,z-line,3187,-1
+gastrovision,gastrovision/Duodenal bulb/04e3c750-fbfd-49f2-abcf-efd1644bd3a9.jpg,normal,Duodenal bulb,4945,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/cac19868-5f00-4be3-a072-2c5e1b88a168.jpg,normal,z-line,3394,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/69ef7f51-d67d-44a1-a286-cc06f2189696.jpg,normal,pylorus,4516,-1
+ers,ers/precise-samples/0015/samples/frames/000011.png,cancer,g39,15,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/f28dd389-b9d0-437d-9e88-e359ccc82015.jpg,normal,z-line,3490,-1
+webatlas,web_atlas/imgs/90.jpg,esophagitis,esophagitis,46,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/7f8ad278-d9db-4445-b4ff-76f8d10272fc.jpg,normal,retroflex-stomach,2478,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/2c93f2a1-95e8-45a1-af3d-3a4214b6bae2.jpg,normal,retroflex-stomach,2466,-1
+ers,ers/precise-samples/0411/samples/frames/000002.png,ulcer,g50,411,-1
+gastrovision,gastrovision/Normal stomach/0dbcee36-d854-4f7c-be09-c169c71b6def.jpg,normal,Normal stomach,5901,-1
+gastrovision,gastrovision/Duodenal bulb/1e28826d-f814-45d0-9c00-25eba0c319e2.jpg,normal,Duodenal bulb,5138,-1
+ers,ers/precise-samples/0582/samples/frames/000001.png,polyp,g14,582,-1
+gastrovision,gastrovision/Duodenal bulb/0fc52110-a2ac-4acf-a745-e43369e5965e.jpg,normal,Duodenal bulb,4878,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/e42b9caa-2847-4016-aece-f7a462cffed0.jpg,normal,retroflex-stomach,2657,-1
+webatlas,web_atlas/imgs/19.jpg,esophagitis,esophagitis,88,-1
+gastrovision,gastrovision/Normal stomach/0b7b4656-3d32-43bf-b70e-26c2f57adc55.jpg,normal,Normal stomach,6204,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/e9039e9f-28bf-4103-b825-a90c6cce726a.jpg,esophagitis,esophagitis-b-d,1572,-1
+gastrovision,gastrovision/Normal stomach/03f20f91-e996-4697-8774-941bc5e52172.jpg,normal,Normal stomach,5762,-1
+ers,ers/precise-samples/0606/samples/frames/000018.png,normal,h02,606,-1
+ers,ers/precise-samples/0407/samples/frames/000003.png,varices,g36,407,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/24336e74-432c-4be5-aa50-c8378cbd35fd.jpg,normal,retroflex-stomach,2641,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/ca3a331a-c822-4b6f-af15-3fb686e8e22e.jpg,normal,retroflex-stomach,2384,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/6b4e15ec-81aa-45d5-b0cd-263b600c3996.jpg,normal,pylorus,4450,-1
+ers,ers/precise-samples/0044/samples/frames/000007.png,cancer,g26,44,-1
+gastrovision,gastrovision/Pylorus/8be3d3d2-4b92-4785-bfd3-b8da3bfab532.jpg,normal,Pylorus,5587,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/1983c172-97d8-4a0f-9800-23ae2f67a352.jpg,normal,pylorus,4519,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/b4ce3308-95d3-4993-b675-ed69a54efcf5.jpg,normal,pylorus,4153,-1
+webatlas,web_atlas/imgs/5.jpg,esophagitis,esophagitis,74,-1
+ers,ers/precise-samples/0755/samples/frames/000002.png,polyp,g45,755,-1
+ers,ers/precise-samples/0015/samples/frames/000008.png,cancer,g39,15,-1
+gastrovision,gastrovision/Normal stomach/0a44d3df-c683-4243-950e-db640da175fd.jpg,normal,Normal stomach,6788,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/d1b488bc-c66f-4ce4-a457-42470ef206b6.jpg,normal,retroflex-stomach,2566,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/9c1b1cfc-8c9e-49db-924f-74d7ed47eb8b.jpg,normal,pylorus,4167,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/88b2da5c-3084-4a72-b009-90169db0b5e6.jpg,normal,z-line,3478,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/cafd1379-9fd9-491e-8262-774b794e4bb3.jpg,esophagitis,esophagitis-b-d,1654,-1
+gastrovision,gastrovision/Normal esophagus/0b36e9b5-ecdb-450a-a564-0736157e7af2.jpg,normal,Normal esophagus,5366,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/c2cd0654-cfb5-4a58-85d8-ff9a9dfca589.jpg,normal,z-line,3053,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/08ca3c3b-041a-4926-8f15-6be78d1a27dd.jpg,normal,z-line,3649,-1
+ers,ers/precise-samples/0606/samples/frames/000017.png,normal,h02,606,-1
+ers,ers/precise-samples/0424/samples/frames/000003.png,cancer,g11,424,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/afc1fe80-1823-406b-884e-c97428460efd.jpg,esophagitis,esophagitis-b-d,1619,-1
+gastrovision,gastrovision/Normal stomach/1a6552aa-a77b-4f2c-9288-6df267be8b22.jpg,normal,Normal stomach,5770,-1
+gastrovision,gastrovision/Normal stomach/0c3acfb5-d6cf-499e-8f9a-d574f7c0d6db.jpg,normal,Normal stomach,6295,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/f3f61f82-8941-44c1-ae5e-d4bd7e8ced67.jpg,normal,pylorus,2323,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/6da50dda-839d-4ef6-a782-1d1cea960dc0.jpg,esophagitis,esophagitis-b-d,1757,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/c48e4a3b-ff90-46a0-b154-47d110e338a1.jpg,normal,retroflex-stomach,2609,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/006d8e3f-fa35-4141-b408-7fbdbce44d39.jpg,normal,Gastroesophageal_junction_normal z-line,6472,-1
+gastrovision,gastrovision/Normal stomach/08f1bfa2-d979-4690-b12f-348a8ad7e998.jpg,normal,Normal stomach,5986,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/0aec60bd-84f9-4f55-be84-1f6579b1df6b.jpg,normal,z-line,2993,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/220eb95c-d8ab-4784-b2e6-0acdc47d1eeb.jpg,normal,pylorus,4509,-1
+gastrovision,gastrovision/Gastric polyps/833d7ac2-c938-4bf6-9721-e847637c7e1a.jpg,polyp,Gastric polyps,4638,-1
+webatlas,web_atlas/imgs/12.jpg,esophagitis,esophagitis,81,-1
+gastrovision,gastrovision/Normal stomach/65896628-9d09-49c0-9840-f28c9d133583.jpg,normal,Normal stomach,6721,-1
+gastrovision,gastrovision/Pylorus/00de0eda-cfb4-4bf8-a82a-7c65496953de.jpg,normal,Pylorus,5480,-1
+ers,ers/precise-samples/0763/samples/frames/000006.png,varices,g36,763,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/a74aee96-b203-49ea-bad9-8677e86e8e63.jpg,esophagitis,esophagitis-a,1275,-1
+ers,ers/precise-samples/0992/samples/frames/000004.png,cancer,g26,992,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ac623c2f-c484-4f63-8e71-31dce8f7ea1d.jpg,normal,pylorus,4032,-1
+gastrovision,gastrovision/Gastric polyps/896178d2-3ec1-45f6-ad2b-8d11a6fbc4bd.jpg,polyp,Gastric polyps,4599,-1
+ers,ers/precise-samples/1111/samples/frames/000002.png,polyp,g14,1111,-1
+gastrovision,gastrovision/Duodenal bulb/064b66ff-9e9e-441f-84a0-1edb6f8843d1.jpg,normal,Duodenal bulb,4961,-1
+webatlas,web_atlas/imgs/92.jpg,esophagitis,esophagitis,48,-1
+ers,ers/precise-samples/1076/samples/frames/000003.png,ulcer,g50,1076,-1
+gastrovision,gastrovision/Esophagitis/0c55967a-9408-4251-959c-5886064a3486.jpg,esophagitis,Esophagitis,4763,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/49bb9c7f-c5de-4057-ad98-f5ce67e62718.jpg,normal,z-line,3265,-1
+ers,ers/precise-samples/0787/samples/frames/000012.png,normal,h01,787,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/7beda79f-f527-41b3-93b5-ede401ac93a2.jpg,normal,z-line,3622,-1
+gastrovision,gastrovision/Esophagitis/0dd9ee56-0db0-43ee-982f-6249d8e837be.jpg,esophagitis,Esophagitis,4759,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/988dff8b-6ef8-4b92-84ab-33e127245e05.jpg,normal,retroflex-stomach,2282,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/2dcc9ffb-83af-488e-b015-71ee0391defd.jpg,normal,Gastroesophageal_junction_normal z-line,6572,-1
+gastrovision,gastrovision/Pylorus/0f9c0b9a-e173-46d8-8ba4-738ee4925fe9.jpg,normal,Pylorus,5705,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/8e09e5d6-a209-4306-aaa4-123c7a2f2a14.jpg,normal,z-line,3507,-1
+ers,ers/precise-samples/0732/samples/frames/000003.png,ulcer,g50,732,-1
+ers,ers/precise-samples/1040/samples/frames/000001.png,polyp,g45,1040,-1
+gastrovision,gastrovision/Normal stomach/0eec3951-d06d-48d8-8802-7b0ce9e84f73.jpg,normal,Normal stomach,6865,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ca600394-2286-4fe6-8b3d-d56caa774b4a.jpg,normal,pylorus,2236,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/6d393d94-d740-4770-9905-da30998fa8b3.jpg,esophagitis,esophagitis-a,1444,-1
+gastrovision,gastrovision/Barrett's esophagus/0478c0ef-d3b7-4281-baf0-e6f20e6b3b6f.jpg,barretts,Barrett's esophagus,4667,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/547f28f4-beac-4ea4-a4e9-65f236d18b72.jpg,normal,z-line,3167,-1
+ers,ers/precise-samples/0098/samples/frames/000002.png,ulcer,g50,98,-1
+ers,ers/precise-samples/0398/samples/frames/000001.png,ulcer,g19,398,-1
+webatlas,web_atlas/imgs/118.jpg,esophagitis,esophagitis,66,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/37a571d9-d720-4ec0-94fa-dfffabd3b3ff.jpg,esophagitis,esophagitis-a,1258,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/9781824b-3994-4193-b60f-ffa2704e2435.jpg,normal,retroflex-stomach,2787,-1
+gastrovision,gastrovision/Normal stomach/04bdadb2-a6bb-4ce1-81fc-938c0bcea768.jpg,normal,Normal stomach,6620,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/64529687-4838-4833-ac35-824ab289a72f.jpg,normal,Gastroesophageal_junction_normal z-line,6504,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/b29fa3be-19d4-40ef-a575-dda0b2abfc5b.jpg,normal,z-line,4347,-1
+gastrovision,gastrovision/Normal stomach/10d2d710-1fa4-4a24-934b-1e03d2938278.jpg,normal,Normal stomach,6442,-1
+gastrovision,gastrovision/Normal stomach/0ed7d90a-9079-4a6a-9fd8-60abb3f9a066.jpg,normal,Normal stomach,6711,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/c4c9fb68-fa04-4ebe-9718-ba89fa847eab.jpg,normal,pylorus,2198,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/0098fd42-5b1e-4d17-89f6-3b395f770045.jpg,normal,retroflex-stomach,2769,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/9a16932f-9cba-43cb-a218-6401b3c11454.jpg,normal,pylorus,4456,-1
+gastrovision,gastrovision/Pylorus/082f4123-b276-4d1a-9d32-c97836187be3.jpg,normal,Pylorus,5473,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ed1479e3-3e83-4f99-bd23-f2b74a1d5207.jpg,normal,pylorus,4327,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/356614ce-7680-48a5-a888-04ebbb356c79.jpg,normal,retroflex-stomach,2749,-1
+gastrovision,gastrovision/Pylorus/04f67859-ff38-48c8-b958-7786cb5d6717.jpg,normal,Pylorus,5691,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/a49fb1bd-734b-4cad-963a-9c7dadccce7e.jpg,normal,retroflex-stomach,2111,-1
+gastrovision,gastrovision/Barrett's esophagus/2ac1cb24-4a51-4126-b45d-b5258aaad371.jpg,barretts,Barrett's esophagus,4704,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/8aaf8c7b-e8ad-4efb-89b5-b6f4c76f9567.jpg,esophagitis,esophagitis-a,1261,-1
+ers,ers/precise-samples/1081/samples/frames/000001.png,varices,g36,1081,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/db1f764c-7ec6-466e-bffe-418af91e0843.jpg,normal,pylorus,4418,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/2d9a812b-9353-4294-805e-57a5f197aa5c.jpg,normal,retroflex-stomach,1957,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/7e9b83d0-6fe4-4a43-a226-dfd62652d9ae.jpg,normal,retroflex-stomach,2396,-1
+ers,ers/precise-samples/0755/samples/frames/000005.png,polyp,g45,755,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/90e265c9-c025-4a2b-9e73-ae680349d78b.jpg,normal,retroflex-stomach,2786,-1
+gastrovision,gastrovision/Barrett's esophagus/1558e721-accd-41d0-a889-8d839a68e9d4.jpg,barretts,Barrett's esophagus,4715,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/29eb2628-2b20-457c-8fe5-ab7dd66ef1df.jpg,normal,z-line,2894,-1
+ers,ers/precise-samples/0343/samples/frames/000002.png,polyp,g45,343,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/5974691c-d16c-4553-bcaf-942af58ab0fb.jpg,normal,pylorus,2324,-1
+ers,ers/precise-samples/1084/samples/frames/000001.png,cancer,g26,1084,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/77389e8d-8993-4ae3-bdfb-fcf65f5a662c.jpg,normal,z-line,3288,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/4fb7d823-347f-4bda-9169-3f415bda7b54.jpg,esophagitis,esophagitis-a,1784,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/ecc04e7f-cce0-4ab7-a165-225452f99cb9.jpg,normal,retroflex-stomach,2057,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/5aa45c4c-fe10-4e56-88c7-e0c188ead68e.jpg,esophagitis,esophagitis-a,1427,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/e0c31d5c-9166-47ad-a70a-039ab7fe9de4.jpg,normal,pylorus,3783,-1
+gastrovision,gastrovision/Pylorus/0abe38e5-af9a-413d-941c-67ac8a73d1b5.jpg,normal,Pylorus,5675,-1
+gastrovision,gastrovision/Pylorus/11ee7109-bc17-4c4b-b4c4-2eabd12ba48c.jpg,normal,Pylorus,5275,-1
+gastrovision,gastrovision/Esophagitis/27601477-0413-42f1-b472-0c791c73ea60.jpg,esophagitis,Esophagitis,4824,-1
+ers,ers/precise-samples/0902/samples/frames/000009.png,normal,h02,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/e99a1fcf-2209-463f-94b3-9a9c7abe8bd9.jpg,normal,pylorus,4435,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/73797663-1b9c-42c3-a19d-f966665e7656.jpg,esophagitis,esophagitis-a,1770,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/dcd258bf-06d0-41a4-82fd-80781d2f1616.jpg,normal,retroflex-stomach,2437,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/744b626e-3216-40e1-86d4-d7ea11cb750b.jpg,normal,z-line,3181,-1
+ers,ers/precise-samples/0787/samples/frames/000005.png,normal,h01,787,-1
+ers,ers/precise-samples/0606/samples/frames/000013.png,normal,h03,606,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/88f0b9e5-3d7c-475d-b4dc-7ddde4359f69.jpg,normal,retroflex-stomach,2087,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0f3bb6df-56c9-4645-a43e-7fea567ca519.jpg,normal,Gastroesophageal_junction_normal z-line,6385,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/64015300-e2f8-439e-957d-0a42453bff7a.jpg,normal,retroflex-stomach,2107,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/b51b39d7-e795-484a-82d4-7a120b41e8e2.jpg,normal,pylorus,3804,-1
+webatlas,web_atlas/imgs/93.jpg,esophagitis,esophagitis,49,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/be5fd0ec-bcad-4570-8c35-781437e7d485.jpg,normal,z-line,3289,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/8f0e1659-9441-4f6a-ba63-d9fbb4ac5b50.jpg,normal,z-line,3100,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/7cc3ee96-b198-4553-ac3e-13b5846147df.jpg,normal,z-line,3593,-1
+gastrovision,gastrovision/Duodenal bulb/03fd136b-efef-425b-9870-a1d1c7beeb07.jpg,normal,Duodenal bulb,5199,-1
+ers,ers/precise-samples/0606/samples/frames/000020.png,normal,h03,606,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/5d35f8f9-050f-4faa-a1a9-cd3933ac324a.jpg,esophagitis,esophagitis-b-d,1594,-1
+gastrovision,gastrovision/Normal stomach/13c169bf-02d5-4bf5-bde4-40350ae31ef1.jpg,normal,Normal stomach,6163,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/a77119d1-65d4-4a2b-9a04-65ff9d9e55d8.jpg,normal,z-line,3606,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/05b9c2ca-83ac-41d0-859a-eff796ca42da.jpg,normal,Gastroesophageal_junction_normal z-line,6502,-1
+gastrovision,gastrovision/Pylorus/0dd843a3-dae7-4e2c-97a1-3270353855ec.jpg,normal,Pylorus,5632,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/2f5df3e1-2779-4279-a0e8-59c63804c2e0.jpg,normal,retroflex-stomach,2370,-1
+gastrovision,gastrovision/Pylorus/63317567-3c6a-4b5d-8be9-96a15f4549a7.jpg,normal,Pylorus,5235,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/ad5fc4cd-1ee5-44c6-aaa0-ab622f0cf2d1.jpg,esophagitis,esophagitis-a,1428,-1
+gastrovision,gastrovision/Gastric polyps/6b21f540-7f8e-4f70-a220-51c8a19d7e02.jpg,polyp,Gastric polyps,4628,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/df284f2d-2342-4a65-a340-8cc32054faa3.jpg,esophagitis,esophagitis-a,1355,-1
+ers,ers/precise-samples/0681/samples/frames/000007.png,varices,g36,681,-1
+gastrovision,gastrovision/Duodenal bulb/1adc4010-76e9-4c09-8145-99eeda39fc83.jpg,normal,Duodenal bulb,4890,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/1dbf6522-c20b-45bd-83c9-c87e765b014e.jpg,normal,pylorus,4226,-1
+gastrovision,gastrovision/Barrett's esophagus/0eec8e76-faca-4c3e-abee-b1146d3664de.jpg,barretts,Barrett's esophagus,4702,-1
+gastrovision,gastrovision/Pylorus/0a1815d1-18fb-43ba-9bc6-7705047c367c.jpg,normal,Pylorus,5619,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/38cc7eda-853a-4205-95ac-c64e89eb96a2.jpg,normal,z-line,3441,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/b6476c66-76f2-4af1-a570-a64c94296ea5.jpg,normal,pylorus,3791,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/1aee9ce1-51dc-4582-917f-905502d42835.jpg,normal,z-line,3355,-1
+gastrovision,gastrovision/Pylorus/1cb9b18f-9f1e-4a29-ada8-180bf67ec6e8.jpg,normal,Pylorus,5542,-1
+ers,ers/precise-samples/0362/samples/frames/000006.png,ulcer,g50,362,-1
+gastrovision,gastrovision/Normal stomach/0c3c82fb-bc7b-4162-a1d4-cd00855b9837.jpg,normal,Normal stomach,6274,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/2d0e2a3a-c4b2-4979-bc7b-531f9f9cdb18.jpg,esophagitis,esophagitis-a,1349,-1
+ers,ers/precise-samples/0813/samples/frames/000002.png,esophagitis,g67,813,-1
+gastrovision,gastrovision/Esophagitis/06a34def-0773-4f2b-9b3c-14d06d72a9f3.jpg,esophagitis,Esophagitis,4820,-1
+ers,ers/precise-samples/0787/samples/frames/000002.png,normal,h01,787,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/c711eed5-76ad-436d-a3a7-688609c95e84.jpg,normal,pylorus,4072,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/2a4dd051-5901-4ecb-b83f-a4a8bd736a09.jpg,esophagitis,esophagitis-b-d,1559,-1
+ers,ers/precise-samples/0813/samples/frames/000001.png,esophagitis,g67,813,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0e2d3d85-16a4-4c8d-b3d6-458a73b6bda2.jpg,normal,Gastroesophageal_junction_normal z-line,6330,-1
+gastrovision,gastrovision/Duodenal bulb/03e757f6-8055-4449-986e-5f660828ea8e.jpg,normal,Duodenal bulb,4858,-1
+gastrovision,gastrovision/Normal stomach/010c2d32-2bfc-4ed6-b1e3-e0be811310fb.jpg,normal,Normal stomach,6782,-1
+ers,ers/precise-samples/0992/samples/frames/000006.png,cancer,g26,992,-1
+ers,ers/precise-samples/0411/samples/frames/000001.png,ulcer,g50,411,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/4ec0baa3-7396-46d7-92d6-fabb794c7fb0.jpg,normal,pylorus,4326,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/30065261-3e9c-4e03-82d4-0525420c510d.jpg,normal,retroflex-stomach,2529,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/35d6fedf-b96c-449e-b505-7d4f00570a79.jpg,normal,Gastroesophageal_junction_normal z-line,6506,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/2f7972e9-4192-4c2f-9c5a-686488816d0e.jpg,esophagitis,esophagitis-a,1475,-1
+ers,ers/precise-samples/0424/samples/frames/000007.png,ulcer,g18,424,-1
+gastrovision,gastrovision/Normal stomach/0ebc99bf-54b2-438e-92e7-d7c550d50a90.jpg,normal,Normal stomach,6298,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/b557d8dd-1e5f-4300-8da5-df9d9bf16359.jpg,esophagitis,esophagitis-a,1405,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/d222972c-f6c0-413c-82e1-7f83c06fe2d7.jpg,normal,z-line,3343,-1
+ers,ers/precise-samples/0945/samples/frames/000001.png,ulcer,g18,945,-1
+gastrovision,gastrovision/Pylorus/0481e8fd-737a-441d-a05d-cea7ed13b96f.jpg,normal,Pylorus,5532,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/227b747c-5945-4526-8b8c-11d017a319de.jpg,normal,pylorus,4216,-1
+gastrovision,gastrovision/Esophagitis/0c9af051-4bf2-475e-adcc-f3f11efb2227.jpg,esophagitis,Esophagitis,4781,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/6bdf1f43-634b-4885-bd0f-ce4db3528ea7.jpg,normal,pylorus,3981,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/18c1212c-ff6a-40a3-8f9c-c24b160a6c5d.jpg,esophagitis,esophagitis-b-d,1553,-1
+ers,ers/precise-samples/0781/samples/frames/000002.png,normal,h02,781,-1
+gastrovision,gastrovision/Normal stomach/0eeb7389-f912-4e1d-a42e-6010d6d0bfa4.jpg,normal,Normal stomach,5768,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/b8155146-1875-4933-821b-c3899faf31f9.jpg,normal,retroflex-stomach,2498,-1
+webatlas,web_atlas/imgs/88.jpg,esophagitis,esophagitis,44,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/b1c17e47-72a9-4c28-b38f-f0976f608de2.jpg,normal,pylorus,4208,-1
+gastrovision,gastrovision/Normal stomach/58548858-9126-446f-abb9-7d5451995ed3.jpg,normal,Normal stomach,6157,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/99fe8d03-97a4-4c35-aeb0-a83796e2d711.jpg,normal,pylorus,2204,-1
+ers,ers/precise-samples/0265/samples/frames/000001.png,ulcer,g50,265,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/33776605-56aa-44bd-897c-a5b01450e540.jpg,normal,z-line,3174,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/251aef33-220a-4ba3-8ab4-9efc5dc3d18e.jpg,normal,z-line,3541,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/ebdd5461-7bbc-4e21-96ca-6e5fc3493452.jpg,normal,retroflex-stomach,2365,-1
+gastrovision,gastrovision/Normal stomach/03f78ae8-d35b-4bde-a01b-5fee015f70b8.jpg,normal,Normal stomach,5947,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0b364aef-04f3-403f-9172-e15ef11a5d2f.jpg,normal,Gastroesophageal_junction_normal z-line,6364,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/4d0c095d-53f6-43b3-bc46-1014303b7ebe.jpg,normal,retroflex-stomach,2411,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts-short-segment/03b9c09d-9018-4104-a249-2ec9c471dbf0.jpg,barretts,barretts-short-segment,1182,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/79a383bf-33d0-4ae5-98c5-7cde8995b23d.jpg,normal,z-line,3218,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/8b194261-f053-4496-b13e-f79d15e157e3.jpg,esophagitis,esophagitis-b-d,1645,-1
+gastrovision,gastrovision/Normal esophagus/09f3e19b-ad67-4c8f-ab05-714cfdff493e.jpg,normal,Normal esophagus,5406,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/1994f2f7-3211-490b-9ae6-2fc5523ef0d7.jpg,normal,z-line,3499,-1
+ers,ers/precise-samples/0407/samples/frames/000001.png,varices,g36,407,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/ed580b9b-9e86-4bbd-83af-aa86c23538b3.jpg,normal,z-line,3287,-1
+ers,ers/precise-samples/0387/samples/frames/000003.png,ulcer,g52,387,-1
+ers,ers/precise-samples/0681/samples/frames/000008.png,varices,g36,681,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/e977c4bd-e464-4cd7-add3-9c72673519d4.jpg,normal,retroflex-stomach,1883,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/02faf76d-2d43-41be-a56d-3e7776e08144.jpg,esophagitis,esophagitis-b-d,1616,-1
+webatlas,web_atlas/imgs/124.jpg,esophagitis,esophagitis,67,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ea0d4c83-c15f-47f1-a5b9-115dab3e6b34.jpg,normal,pylorus,3797,-1
+gastrovision,gastrovision/Barrett's esophagus/b46a855e-551f-4902-a1ad-557658b8fbd6.jpg,barretts,Barrett's esophagus,4724,-1
+gastrovision,gastrovision/Normal esophagus/0cc381c9-d058-4eb3-be42-df7061f84069.jpg,normal,Normal esophagus,5365,-1
+gastrovision,gastrovision/Normal stomach/0a03a4de-8849-4aa3-9a8c-e3e9fc99c229.jpg,normal,Normal stomach,5744,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/1d86da88-53a6-4987-aa78-84ec5e44f89b.jpg,normal,retroflex-stomach,2625,-1
+ers,ers/precise-samples/0145/samples/frames/000001.png,polyp,g45,145,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/1bc6344f-019f-4f45-be10-615365b9c928.jpg,normal,Gastroesophageal_junction_normal z-line,6546,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/52c82ecd-8902-4d05-8899-76824c155edf.jpg,normal,z-line,2962,-1
+gastrovision,gastrovision/Pylorus/10cf1b87-a2c9-469d-9a8d-0797406a220c.jpg,normal,Pylorus,5313,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/5b80ac52-2e76-4462-9241-3c60f3c2a932.jpg,normal,retroflex-stomach,2494,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/dd64171b-1fe5-4cd1-875c-6896ffb3e3a6.jpg,normal,pylorus,4504,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/e77a9b16-cb12-4448-8f55-94b6a2381848.jpg,normal,pylorus,3726,-1
+gastrovision,gastrovision/Normal stomach/1f10f2fb-489d-4b67-9008-05cdda584c43.jpg,normal,Normal stomach,6112,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/227ab1a9-df29-477d-a48c-ede8aa7e7965.jpg,normal,pylorus,3951,-1
+ers,ers/precise-samples/0123/samples/frames/000001.png,ulcer,g50,123,-1
+ers,ers/precise-samples/0582/samples/frames/000003.png,polyp,g14,582,-1
+gastrovision,gastrovision/Normal stomach/1ae1c475-d133-42f4-8460-b2f55be389cb.jpg,normal,Normal stomach,6398,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/26708d24-7577-42b1-808a-238cae1c01d1.jpg,normal,retroflex-stomach,2671,-1
+ers,ers/precise-samples/0781/samples/frames/000003.png,normal,h02,781,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/d918c514-bf28-41f1-a3f0-7b5522fb90bf.jpg,normal,pylorus,2193,-1
+webatlas,web_atlas/imgs/131.jpg,esophagitis,esophagitis,68,-1
+gastrovision,gastrovision/Barrett's esophagus/82e9eb9a-36ea-465a-a7b3-c5d02854bf7f.jpg,barretts,Barrett's esophagus,4725,-1
+ers,ers/precise-samples/0992/samples/frames/000007.png,cancer,g26,992,-1
+gastrovision,gastrovision/Pylorus/3852e258-313c-4cc3-a93b-c37b32ff4290.jpg,normal,Pylorus,5620,-1
+gastrovision,gastrovision/Normal stomach/03d4ce4a-7402-47cf-8908-50adc2856530.jpg,normal,Normal stomach,6419,-1
+ers,ers/precise-samples/0387/samples/frames/000001.png,ulcer,g52,387,-1
+ers,ers/precise-samples/0902/samples/frames/000007.png,normal,h02,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/0bc9a9de-c3b1-4740-a930-be96291f751d.jpg,normal,retroflex-stomach,2736,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0d540be1-a0cb-4b8f-b4cc-7713ef3c2089.jpg,normal,Gastroesophageal_junction_normal z-line,4986,-1
+gastrovision,gastrovision/Normal stomach/06d64ae1-c4c1-4139-8ddf-397c48c3b21c.jpg,normal,Normal stomach,6328,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/115ef76e-ac72-45a8-bf3a-54675c9fc56f.jpg,normal,pylorus,4497,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/1c37e2a1-2e79-43b2-a8c4-6d8bddb5f118.jpg,normal,Gastroesophageal_junction_normal z-line,6535,-1
+gastrovision,gastrovision/Pylorus/0c37bf80-efc4-4d63-9da0-0375312d9fdb.jpg,normal,Pylorus,5607,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ac241100-cbc9-4222-8d3d-c4234fd6a161.jpg,normal,pylorus,2170,-1
+webatlas,web_atlas/imgs/29.jpg,esophagitis,esophagitis,1,-1
+gastrovision,gastrovision/Esophagitis/13b81356-b0af-4ac3-a013-50078044b4db.jpg,esophagitis,Esophagitis,4793,-1
+ers,ers/precise-samples/0902/samples/frames/000001.png,normal,h03,902,-1
+ers,ers/precise-samples/0763/samples/frames/000001.png,varices,g36,763,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/77fee0f7-e57f-4d42-835f-bc005adcb5e2.jpg,normal,pylorus,4537,-1
+ers,ers/precise-samples/0740/samples/frames/000002.png,polyp,g45,740,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/509fb7e9-11d8-4b71-b6d0-021c0b187f17.jpg,normal,z-line,3651,-1
+ers,ers/precise-samples/0067/samples/frames/000001.png,esophagitis,g67,67,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/13b42359-8510-4788-b7ec-1a54f21cec32.jpg,normal,pylorus,3771,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/5b29717d-f9a4-4423-8bb4-d340c6d2bf66.jpg,normal,retroflex-stomach,2744,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/cc83269d-6695-423b-80b0-f7b045e40852.jpg,normal,retroflex-stomach,1938,-1
+ers,ers/precise-samples/0520/samples/frames/000001.png,polyp,g45,520,-1
+ers,ers/precise-samples/0964/samples/frames/000003.png,ulcer,g50,964,-1
+gastrovision,gastrovision/Duodenal bulb/028b1f76-3aa6-4fe4-ae6c-d88100e0064d.jpg,normal,Duodenal bulb,5189,-1
+ers,ers/precise-samples/0763/samples/frames/000004.png,varices,g36,763,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/8b6b3f42-27e0-46a0-9a34-629903921ee8.jpg,esophagitis,esophagitis-b-d,1878,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/5dc56c98-19f8-4dd8-975d-303105ff6794.jpg,normal,pylorus,4104,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/89378f88-5a8a-48d2-a604-bbd379971218.jpg,normal,pylorus,3778,-1
+webatlas,web_atlas/imgs/82.jpg,esophagitis,esophagitis,38,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/101956f5-cfbf-46a1-8961-7c47d243355b.jpg,normal,pylorus,2229,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/376bc2e3-558c-4e4c-9ff3-bf414a1e6c4e.jpg,esophagitis,esophagitis-a,1247,-1
+gastrovision,gastrovision/Pylorus/0f7f67a4-2a66-4ac2-a69e-081d32e885ec.jpg,normal,Pylorus,5291,-1
+gastrovision,gastrovision/Normal stomach/0003a65f-9204-43a1-8216-f9c1e17acf19.jpg,normal,Normal stomach,6038,-1
+gastrovision,gastrovision/Normal stomach/05c0c7de-606f-4a12-a89d-1116ea964a5e.jpg,normal,Normal stomach,6888,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/3a415588-4b63-4ad1-87a5-3f586a9fb7fb.jpg,normal,pylorus,3991,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/17967027-e129-4a8c-b753-a6312e36a612.jpg,normal,retroflex-stomach,2759,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/433c07ad-2db4-419f-bca2-21d902dbf296.jpg,normal,pylorus,2143,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/82264eb2-4a7e-4731-a5ed-36192954dc4a.jpg,normal,z-line,3135,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/02e0e571-c3f5-4a71-aa1d-c73b9498e3a7.jpg,normal,z-line,3242,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/19bf9e70-22fc-491b-9daa-823e58e2a181.jpg,normal,Gastroesophageal_junction_normal z-line,5013,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/f30db3e5-40dd-44e0-a10a-1d46263b2768.jpg,normal,pylorus,4006,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/18c5d5c3-5d52-4542-85ef-11d0514dbda9.jpg,normal,pylorus,3990,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/cf00ee19-2d32-48f9-b18f-093d387a054f.jpg,normal,z-line,3280,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/5999a463-7f81-48b3-aec5-7cf61c46392a.jpg,normal,z-line,3245,-1
+ers,ers/precise-samples/0510/samples/frames/000001.png,varices,g36,510,-1
+gastrovision,gastrovision/Pylorus/0fe58c82-9859-46bb-a0ac-b90c9c3bf2ef.jpg,normal,Pylorus,5700,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/80cdc7ab-3a8e-484c-895e-5b52ff669d08.jpg,normal,z-line,3240,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/7e3066d3-c15f-47aa-9f7f-1fa45f466de3.jpg,normal,z-line,3310,-1
+gastrovision,gastrovision/Pylorus/03b9d169-1f41-48a8-91bb-25593e315a6d.jpg,normal,Pylorus,5682,-1
+gastrovision,gastrovision/Normal stomach/0d68cb8d-eccd-4bb2-9707-e366c5e5aacb.jpg,normal,Normal stomach,5815,-1
+ers,ers/precise-samples/0824/samples/frames/000002.png,barretts,g03,824,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0102f6d9-5735-4184-a486-e336613e5cef.jpg,normal,Gastroesophageal_junction_normal z-line,5050,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/370106e8-c1d8-4343-ad1b-a3f2203b3818.jpg,normal,z-line,3148,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/2fae428a-e26e-4ad5-9f20-d3eb2f91079d.jpg,normal,z-line,3468,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/0c34c146-8bc0-46b6-9e56-b0ec6ab69826.jpg,normal,z-line,3435,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/cf70458d-5fb6-4803-a43a-1ebaca402a81.jpg,esophagitis,esophagitis-a,1226,-1
+gastrovision,gastrovision/Pylorus/0a3818be-0f95-4753-bc7a-7f0e82d8da7b.jpg,normal,Pylorus,5265,-1
+gastrovision,gastrovision/Normal stomach/01bdbee7-0773-4e8d-88e7-50fd834a1155.jpg,normal,Normal stomach,6440,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/2ca390f6-06e2-43a6-a69f-39225142329d.jpg,normal,retroflex-stomach,2104,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/30b61d40-e861-4fd7-9709-3f582881886c.jpg,normal,Gastroesophageal_junction_normal z-line,6463,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/1b0e781f-e2a4-440d-804c-fe8dd3a3f541.jpg,esophagitis,esophagitis-b-d,1590,-1
+ers,ers/precise-samples/0067/samples/frames/000004.png,esophagitis,g63,67,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/68ae100f-f82e-4aef-a50e-4dc239f7a245.jpg,esophagitis,esophagitis-a,1403,-1
+ers,ers/precise-samples/0763/samples/frames/000002.png,varices,g36,763,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/03b7b1eb-2e71-447d-bc05-2f4d29e9aec7.jpg,normal,Gastroesophageal_junction_normal z-line,6538,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/d9478a34-de92-47e9-b921-acd943c11ab2.jpg,normal,z-line,3025,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/07caaa2a-315d-474e-814c-9fea4ab45611.jpg,normal,Gastroesophageal_junction_normal z-line,5070,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/1d76f70a-e7ec-457c-83d6-cc989c2c8c0a.jpg,normal,z-line,3422,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/010e6a96-ea41-4f1e-bced-1e784ce411ea.jpg,normal,Gastroesophageal_junction_normal z-line,5067,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/b9339c6a-a019-409f-97f4-e6a7bf46b20a.jpg,normal,z-line,2868,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/1d323193-780a-4617-9ac0-e3260c8e7ae0.jpg,normal,Gastroesophageal_junction_normal z-line,5058,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/aec89512-71ef-4bce-863e-99efe7e9ca4c.jpg,normal,pylorus,3792,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/598d7a52-9c1d-4baa-9bf0-88d129138254.jpg,normal,retroflex-stomach,2515,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/81e8e9cc-b31a-42f9-be9a-9030a4283da3.jpg,normal,pylorus,4182,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0d9b0d11-56f2-47f3-a5c1-0ec27426dfbf.jpg,normal,Gastroesophageal_junction_normal z-line,5081,-1
+ers,ers/precise-samples/0773/samples/frames/000002.png,esophagitis,g63,773,-1
+gastrovision,gastrovision/Barrett's esophagus/fd53ca61-4d87-4129-99d6-48c608907c1e.jpg,barretts,Barrett's esophagus,4744,-1
+ers,ers/precise-samples/0184/samples/frames/000001.png,cancer,g26,184,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/19d4594e-195d-4c46-b708-52b1dbaf709b.jpg,normal,Gastroesophageal_junction_normal z-line,5006,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/1fb0e5d3-5143-4765-a2e0-1bd5718b0187.jpg,normal,Gastroesophageal_junction_normal z-line,5030,-1
+gastrovision,gastrovision/Normal stomach/0c20d64f-443a-48cc-9e95-b279f5c3c9b7.jpg,normal,Normal stomach,5814,-1
+gastrovision,gastrovision/Normal stomach/1a65f7e2-96e8-4021-92bc-3abd2b7369e6.jpg,normal,Normal stomach,5921,-1
+gastrovision,gastrovision/Pylorus/0dd41a5b-c69e-42de-bcc8-a8e674e26a95.jpg,normal,Pylorus,5546,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ca48f7ab-864f-42e6-8a28-b6c205c38968.jpg,normal,pylorus,2304,-1
+ers,ers/precise-samples/0286/samples/frames/000002.png,polyp,g45,286,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/7ff324b5-bae4-4a9d-9ca2-90e4d6ff6c7d.jpg,normal,pylorus,2337,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/260c4348-cef1-48cd-a0d3-8988b50fb13f.jpg,normal,retroflex-stomach,2275,-1
+ers,ers/precise-samples/0986/samples/frames/000002.png,ulcer,g18,986,-1
+gastrovision,gastrovision/Normal stomach/1f3387b7-d631-418b-aaa2-239edd2096a1.jpg,normal,Normal stomach,6608,-1
+ers,ers/precise-samples/0670/samples/frames/000002.png,ulcer,g18,670,-1
+ers,ers/precise-samples/0992/samples/frames/000001.png,cancer,g26,992,-1
+gastrovision,gastrovision/Gastric polyps/ckd8ttjwc00013b5s33m1jgq2.jpg,polyp,Gastric polyps,4618,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/602f33fc-1a7c-40e6-93f4-5ba28d113db9.jpg,normal,pylorus,3793,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/b0f9ec3d-f4b0-45a0-9dfb-b3933cc85c11.jpg,normal,pylorus,4531,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/c9a26d9e-72e7-4eb1-b254-ad39466620c7.jpg,normal,retroflex-stomach,2826,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/8f86e282-5bc0-4413-87b9-ec4f211e7764.jpg,normal,retroflex-stomach,2667,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/1a8c7dd5-f2e3-4c3b-933d-334facd3ec28.jpg,normal,retroflex-stomach,2642,-1
+ers,ers/precise-samples/0992/samples/frames/000009.png,varices,g53,992,-1
+gastrovision,gastrovision/Normal stomach/0a4abed6-fb9a-4fd8-8c40-bfe4999d170c.jpg,normal,Normal stomach,5882,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/c719ac42-0fcc-4d9f-9817-9e162ef80718.jpg,normal,pylorus,2327,-1
+gastrovision,gastrovision/Normal stomach/05d87c90-195d-4f40-bd9d-ccadb8680e45.jpg,normal,Normal stomach,6024,-1
+ers,ers/precise-samples/0727/samples/frames/000004.png,ulcer,g18,727,-1
+gastrovision,gastrovision/Esophagitis/3044457d-8ac8-4cb9-981f-6f6097a3ed49.jpg,esophagitis,Esophagitis,4753,-1
+gastrovision,gastrovision/Normal stomach/3659c51e-ad7d-4bce-99e2-72f7fbc38bc3.jpg,normal,Normal stomach,6774,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/f94ceae7-13f9-4edd-9705-57a67a2811bc.jpg,normal,retroflex-stomach,2655,-1
+ers,ers/precise-samples/0902/samples/frames/000010.png,normal,h02,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/f27bb139-49bc-4813-b7d8-af3527dce2b9.jpg,normal,z-line,4293,-1
+ers,ers/precise-samples/0066/samples/frames/000001.png,esophagitis,g67,66,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/aa41a5a6-314d-4332-ac3c-77f646fe886e.jpg,normal,z-line,3217,-1
+ers,ers/precise-samples/1109/samples/frames/000002.png,ulcer,g50,1109,-1
+ers,ers/precise-samples/1016/samples/frames/000002.png,ulcer,g50,1016,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/66d51c0d-2c08-4140-a9b4-94a2a7c15c63.jpg,normal,z-line,3274,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/000cd4cc-0e53-46e5-ba6c-bdcdb8e5b20e.jpg,normal,pylorus,4377,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/5a127a43-ba12-447b-b0d9-ef42118e31b8.jpg,normal,z-line,3471,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/0a50752b-a575-4546-b50f-99e9ddb84bc4.jpg,normal,pylorus,2320,-1
+gastrovision,gastrovision/Normal stomach/14c68fd6-263e-42cb-ac7a-e268933e2ea1.jpg,normal,Normal stomach,5848,-1
+gastrovision,gastrovision/Normal stomach/0cc7df79-9650-421f-b72f-699a3e225279.jpg,normal,Normal stomach,6123,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0c4e541a-63a4-445b-bffa-45062ea6f7cc.jpg,normal,Gastroesophageal_junction_normal z-line,6503,-1
+ers,ers/precise-samples/0755/samples/frames/000006.png,polyp,g45,755,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/27c94e82-6c07-4e20-97ce-0bdb4c46e9f6.jpg,normal,pylorus,4214,-1
+webatlas,web_atlas/imgs/8.jpg,esophagitis,esophagitis,77,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/fc46d7d0-9919-4d0a-9f17-41f45facdb4b.jpg,normal,z-line,3247,-1
+ers,ers/precise-samples/0332/samples/frames/000001.png,polyp,g45,332,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/d16ecac6-2fa6-40f8-a1bd-6b07f1191488.jpg,esophagitis,esophagitis-b-d,1859,-1
+gastrovision,gastrovision/Normal stomach/0aae25e0-b38d-4f7a-8b95-7e782ff558e9.jpg,normal,Normal stomach,6697,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/84b7f50b-cfa4-4ed6-b94b-917409baa29c.jpg,normal,retroflex-stomach,2448,-1
+gastrovision,gastrovision/Duodenal bulb/1a257cd9-48e7-4ea8-b1ed-f5e63639e35c.jpg,normal,Duodenal bulb,4973,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/42291512-7c14-48e6-9fcb-83db136019af.jpg,normal,pylorus,4563,-1
+ers,ers/precise-samples/0443/samples/frames/000006.png,varices,g36,443,-1
+gastrovision,gastrovision/Normal stomach/0d0c62e3-ead0-4aa8-9e54-655a3f65e086.jpg,normal,Normal stomach,5970,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/d9ecfc9b-8741-424b-8c0e-a2bc908337fb.jpg,normal,retroflex-stomach,2474,-1
+ers,ers/precise-samples/0241/samples/frames/000008.png,polyp,g45,241,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/23b47ad0-a301-4077-b5d6-4af2ea6ead8d.jpg,normal,Gastroesophageal_junction_normal z-line,5075,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/5c62aaf6-e51e-4280-9715-c20e412d4ba4.jpg,normal,retroflex-stomach,2373,-1
+gastrovision,gastrovision/Pylorus/16c148c9-5369-48d5-bcea-adbcdf974ee8.jpg,normal,Pylorus,5717,-1
+gastrovision,gastrovision/Normal esophagus/0d988288-0add-4f61-bf5f-dbc0d52d077e.jpg,normal,Normal esophagus,5407,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/16f7dbc1-8404-4876-8ba9-34b27d2b45a7.jpg,normal,pylorus,3824,-1
+gastrovision,gastrovision/Normal stomach/026c3890-61c6-4149-8c25-c679b5beabc3.jpg,normal,Normal stomach,6414,-1
+ers,ers/precise-samples/0732/samples/frames/000002.png,ulcer,g50,732,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/6271374b-485c-458f-8215-11618c0befe6.jpg,normal,z-line,3412,-1
+gastrovision,gastrovision/Normal stomach/00b18205-e9cb-4ae6-aacb-059fbbf926c8.jpg,normal,Normal stomach,5793,-1
+gastrovision,gastrovision/Pylorus/04ddd48f-3550-427a-82ac-deb1b1bfd12d.jpg,normal,Pylorus,5609,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/81921ea9-efb0-4ed1-8dc8-581f24f2ebce.jpg,normal,retroflex-stomach,2477,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/616bcbb4-00b2-4f28-bd97-6e64cd9eb6e5.jpg,normal,z-line,3353,-1
+ers,ers/precise-samples/0023/samples/frames/000001.png,barretts,g03,23,-1
+gastrovision,gastrovision/Pylorus/0c7dcfdc-e3f1-4a4d-a8a7-dcc3c6210812.jpg,normal,Pylorus,5594,-1
+ers,ers/precise-samples/0606/samples/frames/000002.png,esophagitis,g67,606,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/a58d94dd-e098-423b-be9d-7a2ffa788f37.jpg,normal,z-line,3364,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/de0f50da-0636-4bed-9d77-f8372b9ae8be.jpg,esophagitis,esophagitis-b-d,1826,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/dfdba5c8-60b5-4b23-bdc2-736c295a45f8.jpg,esophagitis,esophagitis-a,1432,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/afa4bc76-d3a4-41fd-881e-bcea92c2a57a.jpg,normal,z-line,4278,-1
+gastrovision,gastrovision/Normal esophagus/0d54f674-bb3b-429b-bca6-4754acb48451.jpg,normal,Normal esophagus,5428,-1
+ers,ers/precise-samples/0964/samples/frames/000002.png,ulcer,g50,964,-1
+gastrovision,gastrovision/Normal stomach/02aa909b-be4d-416c-9c2f-fcb39c8097a4.jpg,normal,Normal stomach,6152,-1
+gastrovision,gastrovision/Esophagitis/023d23b7-7ce9-4659-9112-1875a5e76f7b.jpg,esophagitis,Esophagitis,4837,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/a01c48c5-eacf-4f17-bce1-d8977f6c47bc.jpg,normal,retroflex-stomach,2539,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/fd36db74-809c-4467-955e-cf9f80e62113.jpg,normal,retroflex-stomach,2042,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/89dced8c-b610-4203-b5c0-b4538bb6f098.jpg,normal,pylorus,4429,-1
+ers,ers/precise-samples/0015/samples/frames/000009.png,cancer,g39,15,-1
+gastrovision,gastrovision/Normal stomach/05f7f58a-36c4-48e3-96b1-2d8ad5fb450c.jpg,normal,Normal stomach,5950,-1
+ers,ers/precise-samples/0992/samples/frames/000014.png,varices,g53,992,-1
+gastrovision,gastrovision/Normal stomach/0b88c0d8-0407-46fe-b959-7ad67c8f8e31.jpg,normal,Normal stomach,5958,-1
+ers,ers/precise-samples/0781/samples/frames/000001.png,normal,h02,781,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/a3c8af37-0968-494e-b277-7ccdbd3426f2.jpg,normal,z-line,3259,-1
+gastrovision,gastrovision/Normal stomach/0f79c197-6a74-49f7-b155-1087170c7b90.jpg,normal,Normal stomach,6172,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/e5309bb9-13de-4731-916a-4b7d3d0eb4c9.jpg,esophagitis,esophagitis-a,1792,-1
+gastrovision,gastrovision/Esophageal varices/07ddaece-63d8-49a4-ad59-021dc6550c11.jpg,varices,Esophageal varices,4585,-1
+ers,ers/precise-samples/0067/samples/frames/000002.png,esophagitis,g63,67,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/f232dd62-b16f-4277-b8c1-57011e34dbc8.jpg,normal,retroflex-stomach,2298,-1
+gastrovision,gastrovision/Barrett's esophagus/766d1034-0a8a-4091-b999-3d42dee05907.jpg,barretts,Barrett's esophagus,4660,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/b2fc1dbb-2da9-4389-8a67-dec06fb98b40.jpg,normal,pylorus,4322,-1
+gastrovision,gastrovision/Normal stomach/1ac184b0-99d9-42b2-b643-ee744214b2f5.jpg,normal,Normal stomach,5953,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/8122bf0b-f844-4435-b5dc-76a49a29e4f9.jpg,esophagitis,esophagitis-a,1273,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/a5923e26-18ba-42c4-8db0-80c201bbb92b.jpg,normal,pylorus,4244,-1
+webatlas,web_atlas/imgs/28.jpg,esophagitis,esophagitis,1,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/babdc296-8969-4441-8626-6f949ccbb22d.jpg,normal,pylorus,4461,-1
+ers,ers/precise-samples/0992/samples/frames/000003.png,cancer,g26,992,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/cf3b1cd2-d93c-44d7-b45b-3893f53bd343.jpg,normal,retroflex-stomach,2698,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/2890a4fa-07fa-405f-a55b-317d1345f8a6.jpg,normal,z-line,3330,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/e104bd0a-a6d8-40f2-b2a8-a43be7d1ee49.jpg,normal,retroflex-stomach,2538,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/544018dc-3972-4b20-9f79-589348ca4f92.jpg,normal,pylorus,2307,-1
+ers,ers/precise-samples/0992/samples/frames/000005.png,cancer,g26,992,-1
+gastrovision,gastrovision/Esophagitis/0a88d316-97fc-4ad8-94fd-7be392f6698d.jpg,esophagitis,Esophagitis,4805,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/56693fcd-dad6-469f-bbe1-bf753b90f316.jpg,normal,retroflex-stomach,2589,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/1d03bce6-f229-419a-9843-6e97b00bd3f2.jpg,normal,pylorus,3843,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/5fc1209a-1a9b-4ec1-9aa0-80fa9d6446c1.jpg,normal,pylorus,4200,-1
+ers,ers/precise-samples/0606/samples/frames/000021.png,normal,h03,606,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/e7e3f4a5-e01b-4656-99b1-3220e5dfa11b.jpg,normal,pylorus,3840,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/0b27900f-d88d-4bf3-bb2c-851bdf6ea5df.jpg,normal,retroflex-stomach,2535,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ca0d5598-2e81-4400-8e34-85cc2446e776.jpg,normal,pylorus,4139,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/39f19535-ae30-42a3-825f-2e6897b1217b.jpg,esophagitis,esophagitis-a,1511,-1
+ers,ers/precise-samples/0834/samples/frames/000001.png,normal,h03,834,-1
+ers,ers/precise-samples/0471/samples/frames/000002.png,polyp,g31,471,-1
+ers,ers/precise-samples/0152/samples/frames/000001.png,esophagitis,g63,152,-1
+gastrovision,gastrovision/Barrett's esophagus/0e8519bc-0188-46e7-9d10-03920dfae2a1.jpg,barretts,Barrett's esophagus,4685,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/6208e19d-421e-4e93-8de7-1a2f358fe378.jpg,normal,retroflex-stomach,2481,-1
+gastrovision,gastrovision/Normal esophagus/03c8da39-6ab9-4f63-ba59-6c0652bfe789.jpg,normal,Normal esophagus,5389,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/5019576a-f5d7-4af0-9bd3-40b38a96a1a3.jpg,normal,z-line,3009,-1
+gastrovision,gastrovision/Duodenal bulb/0ca728fb-5710-4fa2-aca4-62144902cf7f.jpg,normal,Duodenal bulb,5191,-1
+ers,ers/precise-samples/0681/samples/frames/000006.png,varices,g36,681,-1
+ers,ers/precise-samples/0332/samples/frames/000003.png,polyp,g45,332,-1
+ers,ers/precise-samples/0424/samples/frames/000001.png,ulcer,g18,424,-1
+gastrovision,gastrovision/Normal stomach/0edf5265-89c6-4e94-955f-5905899c9d85.jpg,normal,Normal stomach,6453,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/53ab1469-6768-4945-961a-39818309194d.jpg,normal,retroflex-stomach,2772,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/06d537e2-00fc-43ba-8240-016aa90331ef.jpg,normal,Gastroesophageal_junction_normal z-line,6375,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/57630adb-726b-4ae9-b10e-27ba182384f4.jpg,normal,pylorus,4181,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/c8e4d9a4-9eec-42d2-922c-7a5b461d95aa.jpg,normal,z-line,3457,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/e6c494e5-4775-4f1e-be30-4ec76ba79ea9.jpg,esophagitis,esophagitis-a,1415,-1
+gastrovision,gastrovision/Esophagitis/0a791fa4-66b0-4b53-8591-3076cf4b546b.jpg,esophagitis,Esophagitis,4751,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/82308872-5a13-479d-bb20-b6d0e2df239a.jpg,normal,retroflex-stomach,2091,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/ab33e21e-6ca1-457d-a025-b34f1eb51aae.jpg,normal,retroflex-stomach,2017,-1
+gastrovision,gastrovision/Duodenal bulb/35404486-0270-4fd8-9325-29a8eb626ab5.jpg,normal,Duodenal bulb,5127,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/21dc581a-f756-4590-b0f7-0c8f2b2eff26.jpg,esophagitis,esophagitis-a,1518,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/804fdfd4-149d-423d-9cb5-925b4aca735f.jpg,normal,pylorus,4054,-1
+ers,ers/precise-samples/0727/samples/frames/000003.png,ulcer,g18,727,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/027e5a87-7192-4614-9648-4ead9052c8a8.jpg,normal,pylorus,4110,-1
+ers,ers/precise-samples/0902/samples/frames/000012.png,normal,h02,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/4536e7de-7903-4a8b-ab1f-db51b492ae10.jpg,normal,retroflex-stomach,2517,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/6b45a1a5-d405-4755-9054-aac12a9cbc4b.jpg,normal,pylorus,2240,-1
+gastrovision,gastrovision/Normal stomach/04b99979-f2af-486e-93ac-313d94a07930.jpg,normal,Normal stomach,6199,-1
+ers,ers/precise-samples/0606/samples/frames/000001.png,esophagitis,g67,606,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/fc4fae9d-1a41-46a8-9a5e-cb19b6b7f516.jpg,normal,z-line,3414,-1
+gastrovision,gastrovision/Pylorus/10a4d91d-47aa-4028-8d07-323d2dcca7e9.jpg,normal,Pylorus,5624,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/296223d2-e1a1-4814-8580-e9db99572ccb.jpg,normal,retroflex-stomach,2726,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/cabc05b0-8981-4447-8538-21227e3b3f00.jpg,normal,pylorus,4113,-1
+ers,ers/precise-samples/0470/samples/frames/000001.png,cancer,g39,470,-1
+ers,ers/precise-samples/0044/samples/frames/000004.png,cancer,g26,44,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/66f7ae10-730b-4d3d-931e-73285d65ef5f.jpg,normal,z-line,2918,-1
+ers,ers/precise-samples/0355/samples/frames/000001.png,esophagitis,g63,355,-1
+webatlas,web_atlas/imgs/127.jpg,esophagitis,esophagitis,67,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/6efa9a88-aaa9-48d3-a9c9-e952817bd38a.jpg,normal,retroflex-stomach,2440,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/d2cbe37b-0dd9-4f45-ae84-ab165b143d48.jpg,esophagitis,esophagitis-a,1348,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/71fffa84-c9b3-4923-8231-6d356200dcce.jpg,esophagitis,esophagitis-a,1786,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0e2795a4-0962-494d-ae7d-846814364081.jpg,normal,Gastroesophageal_junction_normal z-line,5001,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/6d8a3266-7483-4023-984d-59483870eae9.jpg,normal,retroflex-stomach,2748,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/dd6ee2c8-fcbc-4452-8044-56b616120e10.jpg,normal,retroflex-stomach,2802,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/10213ade-51ae-43e2-ba8f-13cab363da67.jpg,normal,Gastroesophageal_junction_normal z-line,5018,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/1be4dec1-052a-44b3-a065-8bc6a1f02e1c.jpg,normal,pylorus,3918,-1
+gastrovision,gastrovision/Normal stomach/06c9fcd2-04e9-4f5a-95aa-b8973ae2e421.jpg,normal,Normal stomach,5801,-1
+ers,ers/precise-samples/0959/samples/frames/000004.png,polyp,g45,959,-1
+webatlas,web_atlas/imgs/106.jpg,esophagitis,esophagitis,62,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/a0df985e-723c-4d50-b99b-2cdd619516cd.jpg,normal,z-line,3415,-1
+ers,ers/precise-samples/1084/samples/frames/000002.png,ulcer,g18,1084,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/9cc15a70-b5b3-443d-bf51-e88b68e87ddd.jpg,normal,z-line,3698,-1
+ers,ers/precise-samples/0161/samples/frames/000001.png,ulcer,g50,161,-1
+ers,ers/precise-samples/0458/samples/frames/000001.png,ulcer,g50,458,-1
+gastrovision,gastrovision/Normal stomach/03f99d3d-7610-4f75-bea1-9253e7f6308b.jpg,normal,Normal stomach,6733,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/d275778b-8362-48b9-b8f8-0a17739f3107.jpg,normal,retroflex-stomach,2399,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/658e51a9-c5d5-4034-bf91-ea8a7b4674ae.jpg,normal,retroflex-stomach,2635,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/3df50357-05ba-4aab-b0d0-b45bdcc965a3.jpg,normal,retroflex-stomach,2425,-1
+gastrovision,gastrovision/Normal stomach/1f67181e-862b-4b90-a6fc-3f5347419354.jpg,normal,Normal stomach,6678,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/2cbcb913-e037-4e27-b431-8aaf25872085.jpg,normal,retroflex-stomach,2286,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts-short-segment/a30cd737-df9c-46aa-800d-8a2c5986f50b.jpg,barretts,barretts-short-segment,1212,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0f0aa31c-3ead-45c3-b647-4bbb8269e87a.jpg,normal,Gastroesophageal_junction_normal z-line,6893,-1
+gastrovision,gastrovision/Pylorus/03cc5720-015c-4dd0-8e74-f206ae9ac7ee.jpg,normal,Pylorus,5642,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/619e02c9-03a5-4162-a3a9-7fb38d26c0bb.jpg,normal,z-line,3282,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/149af25f-41b6-41e9-b236-f4acf8543e3b.jpg,esophagitis,esophagitis-a,1364,-1
+gastrovision,gastrovision/Esophagitis/0a35c15d-d0b6-4a60-8389-066dd83c42ad.jpg,esophagitis,Esophagitis,4829,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/be49b2a3-166e-41dc-8ef7-68f424308bfc.jpg,normal,z-line,3548,-1
+ers,ers/precise-samples/0954/samples/frames/000005.png,varices,g53,954,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/2dfd81ce-ef2b-4653-8b26-ed2e025e19f9.jpg,esophagitis,esophagitis-b-d,1747,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/497abbf1-dcf9-4330-ab0b-54c704db21ac.jpg,normal,pylorus,4422,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/0e02d333-a391-49eb-827f-cf3eb7d96da0.jpg,normal,retroflex-stomach,2668,-1
+gastrovision,gastrovision/Normal stomach/0b320843-e774-4cf9-b35d-f188603b846a.jpg,normal,Normal stomach,6444,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/b5945fe1-ecd5-477c-b008-217046830e5d.jpg,normal,pylorus,3812,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/5838d0a6-5d44-41be-a118-e48bea5416e5.jpg,normal,z-line,3648,-1
+gastrovision,gastrovision/Normal stomach/00f960af-c58e-4aa5-b3ff-6468d4ef02b8.jpg,normal,Normal stomach,6073,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/ae4b4a7c-b1e8-4777-9740-ca607694478f.jpg,esophagitis,esophagitis-a,1341,-1
+gastrovision,gastrovision/Pylorus/1bdd001c-4c78-4ee7-89c7-60f3fbdc1af7.jpg,normal,Pylorus,5209,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/383ac392-85ef-4c21-8966-9440516b5c01.jpg,normal,pylorus,2218,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/bfd7dca8-336b-4d88-8799-d0dab2bcb8ee.jpg,esophagitis,esophagitis-b-d,1831,-1
+gastrovision,gastrovision/Normal stomach/0b3adb14-d2bc-40f4-9de8-37fad7621312.jpg,normal,Normal stomach,5995,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/6d0dd1c8-8873-42fb-a297-5aa42ff44c24.jpg,normal,pylorus,2179,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/48f6dbd2-482d-4f1c-9e30-dd642b1cdce6.jpg,esophagitis,esophagitis-b-d,1570,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/2482e154-a7ac-4f34-88b5-636751276884.jpg,normal,z-line,3544,-1
+gastrovision,gastrovision/Normal stomach/0b97576e-9d86-4d70-b949-4776ac1ced95.jpg,normal,Normal stomach,6761,-1
+ers,ers/precise-samples/1109/samples/frames/000001.png,ulcer,g50,1109,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0ff84a12-287e-4ea0-b756-1fd8c78c429e.jpg,normal,Gastroesophageal_junction_normal z-line,5036,-1
+gastrovision,gastrovision/Normal stomach/0dd23b8c-11d5-4acf-b57d-c07f003cbabd.jpg,normal,Normal stomach,6035,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts/270c7eb3-1c2e-4ecf-9b61-f38ebf146673.jpg,barretts,barretts,1156,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/4cb630f1-e19d-43f9-a98b-c41d5a29681e.jpg,normal,retroflex-stomach,2491,-1
+ers,ers/precise-samples/0661/samples/frames/000001.png,barretts,g03,661,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/91b661ba-d464-4fc5-8c34-ca16b21abb17.jpg,esophagitis,esophagitis-b-d,1552,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/8dd4e793-59f6-4768-a524-71421b9536e0.jpg,esophagitis,esophagitis-a,1350,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/01a978af-b9f6-4cd9-854e-4fccbf09270d.jpg,normal,Gastroesophageal_junction_normal z-line,5064,-1
+gastrovision,gastrovision/Normal esophagus/03599e50-f034-4982-a3a7-e7be1a19fd30.jpg,normal,Normal esophagus,5470,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/7b890afe-9d07-401d-871d-3af493517fe5.jpg,normal,pylorus,3806,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/26704631-9405-4384-b53a-8ff13cdb883f.jpg,normal,Gastroesophageal_junction_normal z-line,5172,-1
+ers,ers/precise-samples/0824/samples/frames/000004.png,barretts,g03,824,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/82b1d210-65bd-4380-985f-19cb4a4f35c4.jpg,normal,retroflex-stomach,1968,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/f826afb3-2c10-451a-9bc9-826414a98f96.jpg,normal,z-line,3239,-1
+gastrovision,gastrovision/Pylorus/1f18b714-e9f0-4e58-896b-f1a713bac2e4.jpg,normal,Pylorus,5578,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/a195fe1a-ee28-476b-8c4c-fa5a6bc41af0.jpg,normal,z-line,3386,-1
+ers,ers/precise-samples/0787/samples/frames/000010.png,normal,h01,787,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/43996c35-ffff-4271-9753-9ca80eff9bbc.jpg,normal,pylorus,4312,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/742d38b0-99db-4048-b67d-f14d59ce3cb1.jpg,normal,z-line,3684,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/e583c58f-aed2-415e-8115-52475c1d3f85.jpg,normal,z-line,3234,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/0b9e1573-f310-47d1-b8c9-932590746548.jpg,normal,z-line,3235,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/b4019c1a-6f49-46c1-b76e-619ea9653506.jpg,normal,pylorus,4378,-1
+gastrovision,gastrovision/Normal stomach/1b0d9f25-5f4d-471b-994e-6ec4aeb88834.jpg,normal,Normal stomach,6813,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/4243a80d-3c1f-4785-9ddb-c2f6b8d1037f.jpg,normal,retroflex-stomach,2487,-1
+ers,ers/precise-samples/0899/samples/frames/000002.png,ulcer,g18,899,-1
+gastrovision,gastrovision/Pylorus/05148dc9-5145-4e81-b521-18d4591219d7.jpg,normal,Pylorus,5251,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/9151e089-5cbd-4a75-87f0-c4f6f8b1a0c6.jpg,normal,z-line,2893,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts-short-segment/a0e5972f-a1af-4b52-a468-9aa028cfbe16.jpg,barretts,barretts-short-segment,1171,-1
+gastrovision,gastrovision/Pylorus/0bcb4d85-2c07-45b8-9049-7729e2cfc6ea.jpg,normal,Pylorus,5652,-1
+gastrovision,gastrovision/Normal stomach/0f44323f-1e6f-4e00-83eb-3d6a311084ba.jpg,normal,Normal stomach,6079,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/e3fb9f22-0951-4965-bb44-410be9644944.jpg,normal,pylorus,4460,-1
+gastrovision,gastrovision/Pylorus/04c9661b-960f-440c-bfa1-36acb637491b.jpg,normal,Pylorus,5270,-1
+ers,ers/precise-samples/0712/samples/frames/000002.png,ulcer,g18,712,-1
+ers,ers/precise-samples/0527/samples/frames/000001.png,ulcer,g18,527,-1
+gastrovision,gastrovision/Normal stomach/0e4a5759-409f-444c-960d-0ceae50ba35f.jpg,normal,Normal stomach,6725,-1
+ers,ers/precise-samples/0257/samples/frames/000001.png,ulcer,g52,257,-1
+ers,ers/precise-samples/0755/samples/frames/000001.png,polyp,g45,755,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/fa19437a-d580-47b6-908d-4c379243117c.jpg,normal,pylorus,2130,-1
+ers,ers/precise-samples/0471/samples/frames/000001.png,polyp,g31,471,-1
+gastrovision,gastrovision/Duodenal bulb/0fdfd974-18c1-46ae-90d4-70e10fc3a1ca.jpg,normal,Duodenal bulb,4976,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts/0ceb7736-72bf-4480-9f98-9060fdddba9f.jpg,barretts,barretts,1158,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/6570c0fd-6992-4af1-9183-3747ae199537.jpg,normal,z-line,2987,-1
+gastrovision,gastrovision/Duodenal bulb/0c7fe269-52a3-4888-b9e1-408f88a654f5.jpg,normal,Duodenal bulb,4934,-1
+ers,ers/precise-samples/0992/samples/frames/000010.png,varices,g53,992,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/73228ef6-716a-469b-a067-ae29c7dbd17b.jpg,normal,z-line,3382,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/6f5dd7f8-61fd-4378-a8ac-9831029237a3.jpg,normal,pylorus,4087,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/560c556a-32cf-4294-817e-6eb33412d534.jpg,esophagitis,esophagitis-a,1542,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/22d48389-f313-41bc-8d05-9648760f8d55.jpg,normal,z-line,3694,-1
+ers,ers/precise-samples/0425/samples/frames/000006.png,varices,g36,425,-1
+ers,ers/precise-samples/0013/samples/frames/000007.png,barretts,g03,13,-1
+gastrovision,gastrovision/Esophageal varices/05535e71-2bc8-417a-a76d-552a07fb8258.jpg,varices,Esophageal varices,4588,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ababf20b-c552-40f4-8b0d-0bcd9a4d2b70.jpg,normal,pylorus,2252,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/7540badf-9da4-4c94-838e-e716c8a59cec.jpg,esophagitis,esophagitis-b-d,1813,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/d6f6753e-6c90-4c70-a0cf-a5bbb2d8c51b.jpg,normal,z-line,3157,-1
+ers,ers/precise-samples/0672/samples/frames/000002.png,polyp,g14,672,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/49a0fd92-1179-4536-85c9-bafde35e2914.jpg,normal,z-line,4300,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/a20e5bd0-1445-4524-9892-e135560502ee.jpg,normal,retroflex-stomach,2415,-1
+gastrovision,gastrovision/Pylorus/2a18b153-45df-4c94-8565-7d2b78b478e2.jpg,normal,Pylorus,5708,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/3b7dc8c5-a9a2-451f-9525-13330fe00d9c.jpg,normal,z-line,4263,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/73568f45-070e-44d8-a72a-31b158ea4360.jpg,esophagitis,esophagitis-b-d,1860,-1
+ers,ers/precise-samples/0098/samples/frames/000004.png,ulcer,g50,98,-1
+ers,ers/precise-samples/0606/samples/frames/000014.png,normal,h03,606,-1
+gastrovision,gastrovision/Duodenal bulb/1dcbf690-1d0d-4400-a576-48fb8c6e11f2.jpg,normal,Duodenal bulb,4884,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/126a1be7-a7f6-451b-91c1-7bb32a0f7e69.jpg,normal,pylorus,4406,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/08ea8e1f-e5db-4582-b693-9266818e8500.jpg,normal,z-line,2865,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/8ef87376-7dd9-4651-9bfc-e337d6a9f06a.jpg,normal,z-line,4336,-1
+gastrovision,gastrovision/Normal stomach/0a70b659-658c-4303-bc81-5a5cbf26a8c3.jpg,normal,Normal stomach,6242,-1
+ers,ers/precise-samples/0787/samples/frames/000008.png,normal,h01,787,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/21752476-fc5b-4632-aafd-dd8ebd4a50d2.jpg,esophagitis,esophagitis-b-d,1571,-1
+gastrovision,gastrovision/Normal stomach/19b19b8a-026a-4720-8aff-0a41b0d2ecc3.jpg,normal,Normal stomach,6880,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/0fd50427-8237-4fe8-b35c-61d9d10e29bb.jpg,normal,z-line,3577,-1
+webatlas,web_atlas/imgs/126.jpg,esophagitis,esophagitis,67,-1
+ers,ers/precise-samples/1076/samples/frames/000002.png,ulcer,g50,1076,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/581f5db3-44d9-42ea-9cbf-94a8079a9a24.jpg,normal,pylorus,4199,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/0069a719-31a3-4b07-a58d-9832e72f11fc.jpg,normal,retroflex-stomach,2007,-1
+gastrovision,gastrovision/Normal stomach/0de6f90f-a356-40a9-8297-865f78d91a1c.jpg,normal,Normal stomach,6418,-1
+gastrovision,gastrovision/Pylorus/08e9a3e5-d90a-41b9-86ad-1097532a938e.jpg,normal,Pylorus,5504,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/bc94354a-6262-4776-82e6-ff9cd3924b5b.jpg,normal,z-line,3608,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/beada910-9db5-4261-9336-0bd9bbc53b9a.jpg,normal,pylorus,4014,-1
+gastrovision,gastrovision/Pylorus/53741807-9319-40ff-8457-415978957719.jpg,normal,Pylorus,5551,-1
+gastrovision,gastrovision/Normal stomach/0f521c58-7489-4b03-997b-41f3d64d64d5.jpg,normal,Normal stomach,6790,-1
+gastrovision,gastrovision/Normal esophagus/2f13df63-58a2-4043-94a5-b03217a1e44a.jpg,normal,Normal esophagus,5455,-1
+ers,ers/precise-samples/0184/samples/frames/000002.png,cancer,g26,184,-1
+ers,ers/precise-samples/0443/samples/frames/000011.png,varices,g36,443,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/43d7daf2-e2d2-4991-acae-cbcaa124f5d3.jpg,normal,retroflex-stomach,1985,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/c3239112-4e38-4962-b428-5af725c13310.jpg,normal,retroflex-stomach,2811,-1
+ers,ers/precise-samples/0644/samples/frames/000001.png,ulcer,g50,644,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/a0893082-7428-4529-b863-285235b57742.jpg,normal,pylorus,3752,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/7b7169e5-4206-4a66-b0cd-60236923b4c5.jpg,esophagitis,esophagitis-b-d,1694,-1
+gastrovision,gastrovision/Normal stomach/1e67b6b6-405b-418d-b42f-eb4fed13a259.jpg,normal,Normal stomach,6723,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/f655d9f1-ee56-47ec-8813-096727c846ec.jpg,normal,pylorus,2343,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/eceadd3d-83f0-4985-938d-76e7dedf1e6e.jpg,normal,pylorus,4441,-1
+gastrovision,gastrovision/Normal stomach/07e3bd79-0567-4617-bde0-aedf81db7d8b.jpg,normal,Normal stomach,6882,-1
+ers,ers/precise-samples/0305/samples/frames/000005.png,ulcer,g50,305,-1
+gastrovision,gastrovision/Barrett's esophagus/0c8ab609-22c9-4252-a91d-c7b270fccc57.jpg,barretts,Barrett's esophagus,4657,-1
+gastrovision,gastrovision/Pylorus/0d031fe8-0d83-4702-b176-be9e1521c76e.jpg,normal,Pylorus,5178,-1
+ers,ers/precise-samples/0044/samples/frames/000003.png,cancer,g26,44,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/e97f77e9-8aaf-4c83-b12e-7c52337b88ef.jpg,normal,z-line,3199,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/0f134090-5967-44d0-886f-eae91e2bc04a.jpg,normal,pylorus,4190,-1
+ers,ers/precise-samples/0670/samples/frames/000001.png,ulcer,g18,670,-1
+gastrovision,gastrovision/Pylorus/02e349eb-3095-409e-b94f-339dc0d080ec.jpg,normal,Pylorus,5512,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/928888fa-97f4-4c18-83f9-d7e85fc09af0.jpg,esophagitis,esophagitis-a,1538,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/e7173013-169d-46c3-bb38-ef59ae31cd4f.jpg,normal,z-line,3083,-1
+gastrovision,gastrovision/Normal stomach/0dbd1e34-0a8b-49c0-9ca4-40a225782243.jpg,normal,Normal stomach,6456,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/ba8a3c15-0c6c-4681-b0cb-589f906b3bf5.jpg,esophagitis,esophagitis-b-d,1563,-1
+ers,ers/precise-samples/0902/samples/frames/000014.png,normal,h02,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts/c701e6b5-4fbf-45a5-ae6c-4a82b9592e94.jpg,barretts,barretts,1131,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/12a8e842-eb31-41ce-9253-53c5ba79ab4f.jpg,esophagitis,esophagitis-a,1255,-1
+ers,ers/precise-samples/0443/samples/frames/000007.png,varices,g36,443,-1
+gastrovision,gastrovision/Normal stomach/1f71647f-9145-4092-8342-63d0611c3483.jpg,normal,Normal stomach,6610,-1
+gastrovision,gastrovision/Duodenal bulb/28b52f8d-1509-4534-903f-060cd05ba031.jpg,normal,Duodenal bulb,5117,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/4c836115-9431-4e5b-a29b-6ee3c5c7a147.jpg,normal,retroflex-stomach,2542,-1
+ers,ers/precise-samples/0902/samples/frames/000013.png,normal,h02,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/07379a16-df84-4597-8c43-acc794d19fc7.jpg,normal,retroflex-stomach,2059,-1
+ers,ers/precise-samples/0824/samples/frames/000001.png,barretts,g03,824,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/3ee434b3-ec2c-4604-be65-a29583fbcdfa.jpg,normal,retroflex-stomach,1915,-1
+ers,ers/precise-samples/0763/samples/frames/000003.png,varices,g36,763,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/1e7622be-fabf-47ea-aebd-d90fbf815ed0.jpg,normal,Gastroesophageal_junction_normal z-line,5162,-1
+gastrovision,gastrovision/Duodenal bulb/204fc11c-92f4-4e8a-9384-8946cff569ca.jpg,normal,Duodenal bulb,4918,-1
+gastrovision,gastrovision/Normal stomach/05cd7246-4948-4cbb-9938-10600bfa81d6.jpg,normal,Normal stomach,6747,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/c2c96dc8-5da3-44b1-a7e6-2995c6999b7f.jpg,normal,retroflex-stomach,2118,-1
+webatlas,web_atlas/imgs/122.jpg,esophagitis,esophagitis,67,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0b8e4953-5a2a-4fbe-9c77-34b523d38d40.jpg,normal,Gastroesophageal_junction_normal z-line,6560,-1
+ers,ers/precise-samples/0305/samples/frames/000004.png,ulcer,g50,305,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0ebc69a4-7ea2-4fb3-bf79-ba0bbca62588.jpg,normal,Gastroesophageal_junction_normal z-line,6574,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/0b424a73-2c2c-4c50-8821-ddebc9b0c6fd.jpg,esophagitis,esophagitis-a,1800,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/ae003c46-051b-4a23-a10b-90a07614f23f.jpg,esophagitis,esophagitis-b-d,1596,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/848ebec5-b529-40c4-8f01-e078c7e55d47.jpg,normal,z-line,3547,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/79392be3-0819-41fb-98c4-510206c07ec5.jpg,normal,retroflex-stomach,2465,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/ea6e8b6a-d879-4b2f-83b6-cec5a5a79f12.jpg,normal,z-line,3168,-1
+ers,ers/precise-samples/0168/samples/frames/000001.png,polyp,g31,168,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/b96652b2-4c01-470c-a1c2-4a12eb21495f.jpg,normal,retroflex-stomach,2289,-1
+ers,ers/precise-samples/0265/samples/frames/000002.png,ulcer,g50,265,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/4057d2a1-d26d-43f8-9647-a4b2d59a8a0c.jpg,esophagitis,esophagitis-b-d,1877,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/f2c620fa-2e01-43dd-9ed9-89d054f8fbe3.jpg,normal,retroflex-stomach,2300,-1
+gastrovision,gastrovision/Normal stomach/03bbc242-d63f-417f-8d4e-a1862976b75a.jpg,normal,Normal stomach,5925,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/7fc43662-e821-4d37-9e63-b8f388977e5a.jpg,normal,z-line,3681,-1
+gastrovision,gastrovision/Normal stomach/0ab0e15e-e57c-47be-b51c-ab4760157d82.jpg,normal,Normal stomach,6607,-1
+ers,ers/precise-samples/0362/samples/frames/000007.png,ulcer,g50,362,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/65b1fbd6-96a7-45e9-809e-4f13ad3d20ea.jpg,esophagitis,esophagitis-b-d,1716,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/506bde00-a1e4-4217-982a-59f41d20742f.jpg,normal,z-line,3075,-1
+ers,ers/precise-samples/0902/samples/frames/000004.png,normal,h02,902,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/1ae6eece-2bdc-42cb-b1ad-904e97f665b8.jpg,normal,Gastroesophageal_junction_normal z-line,6377,-1
+ers,ers/precise-samples/0787/samples/frames/000003.png,normal,h01,787,-1
+gastrovision,gastrovision/Duodenal bulb/0e874547-9089-461a-b87a-973b98d98674.jpg,normal,Duodenal bulb,5143,-1
+gastrovision,gastrovision/Normal esophagus/05d2da63-1ad4-423f-b89f-b4a3227b2236.jpg,normal,Normal esophagus,5345,-1
+gastrovision,gastrovision/Pylorus/0baf6cfe-1637-4922-8c8e-9a3b8e3e6ca1.jpg,normal,Pylorus,5540,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/35171e1b-1b8d-4ebd-9326-7954b43aacdd.jpg,esophagitis,esophagitis-a,1512,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/d7ae3623-21b4-4eec-a94f-3610efc5896d.jpg,normal,retroflex-stomach,1905,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/45e3ba61-9a11-4437-842d-ccf42ed679fd.jpg,normal,z-line,2854,-1
+gastrovision,gastrovision/Duodenal bulb/1ac4831f-a112-463e-8e53-027888fd5d6e.jpg,normal,Duodenal bulb,4883,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0a761c16-ad3f-4d2e-bcf4-ed15721bcf91.jpg,normal,Gastroesophageal_junction_normal z-line,5052,-1
+gastrovision,gastrovision/Barrett's esophagus/04469996-ee64-4135-8b57-9a281ea433ad.jpg,barretts,Barrett's esophagus,4720,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0aa62848-ceb5-484b-a6b4-420849e8a988.jpg,normal,Gastroesophageal_junction_normal z-line,6513,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/970b9632-9963-49bf-8f98-6bae1850c3f2.jpg,normal,z-line,2936,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/9b8223b1-7a34-4059-a122-65dc4fce1793.jpg,normal,z-line,2896,-1
+gastrovision,gastrovision/Duodenal bulb/33970160-135c-4a1a-b671-c3a74d3dfbaf.jpg,normal,Duodenal bulb,4968,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/faca92ea-0319-4965-ba04-3d6e9ddefebb.jpg,esophagitis,esophagitis-a,1437,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/4ae148f9-acc2-4752-9fda-bc4744234a29.jpg,normal,pylorus,3982,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/b00749bc-fc1c-43e9-841e-458a8f81b18b.jpg,normal,pylorus,4202,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/e2e3c9f4-b8c7-4d5c-946a-9b272c8e0125.jpg,normal,z-line,3455,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/a7ffc16c-b183-4a2e-906d-982bcb3466c5.jpg,normal,z-line,2982,-1
+gastrovision,gastrovision/Pylorus/04ad1506-5262-4b71-9417-ab7f5d6ee327.jpg,normal,Pylorus,5730,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/72da21b9-dab2-4e9e-92d1-e422a833fad4.jpg,normal,retroflex-stomach,2822,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/7095291d-1a84-49fc-938a-39c476044657.jpg,normal,retroflex-stomach,1911,-1
+webatlas,web_atlas/imgs/57.jpg,esophagitis,esophagitis,13,-1
+gastrovision,gastrovision/Pylorus/1393460d-2e65-4051-8b72-b1c89282885f.jpg,normal,Pylorus,5582,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/2746384e-e061-4df3-a9eb-93e8c291b8f7.jpg,normal,pylorus,2302,-1
+gastrovision,gastrovision/Esophagitis/N2DaTmFs.jpg,esophagitis,Esophagitis,4760,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/b8b625b1-024f-4bca-a314-e7896f9508d3.jpg,normal,retroflex-stomach,2053,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/264230f7-ef1d-4a15-b2bd-0badc708dc26.jpg,normal,z-line,4256,-1
+ers,ers/precise-samples/0781/samples/frames/000010.png,normal,h02,781,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/6e8b5713-235e-4a44-826e-20147074e9d3.jpg,normal,retroflex-stomach,2782,-1
+ers,ers/precise-samples/0023/samples/frames/000003.png,barretts,g03,23,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/4044d37d-1688-4d27-a83c-4c47776acfc7.jpg,normal,pylorus,3817,-1
+gastrovision,gastrovision/Pylorus/39941912-6b1d-429c-bdaa-5f3898481098.jpg,normal,Pylorus,5336,-1
+gastrovision,gastrovision/Pylorus/1cdd6488-0b92-48d1-9d2e-0349f0890924.jpg,normal,Pylorus,5723,-1
+gastrovision,gastrovision/Normal stomach/106a09e3-416b-49ff-af22-ab7bfde453ed.jpg,normal,Normal stomach,6348,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/780d1983-8855-459b-8c97-64761eb0fdb6.jpg,normal,pylorus,3917,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/87fa507a-0c9b-4f96-bf08-7c96c1dd4595.jpg,normal,pylorus,2177,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/51730165-521a-4cda-992a-f2ffa7351b27.jpg,normal,z-line,3229,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/ea00f154-d49f-48eb-918c-d44ab150110d.jpg,normal,z-line,4344,-1
+gastrovision,gastrovision/Esophagitis/17621008-08d5-4f9e-bdbf-1bf260423c3e.jpg,esophagitis,Esophagitis,4855,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/a2992635-295a-4bbd-9fae-f17f229a7e08.jpg,normal,retroflex-stomach,2840,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/ada05ddf-b78b-4fc7-8391-5107889d4a7d.jpg,normal,z-line,3542,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/d057f33a-98f5-47be-b19b-01e47c78e115.jpg,normal,retroflex-stomach,2614,-1
+webatlas,web_atlas/imgs/128.jpg,esophagitis,esophagitis,68,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/8733168f-7707-47a1-93bf-93b6fcf76160.jpg,normal,pylorus,4002,-1
+webatlas,web_atlas/imgs/81.jpg,esophagitis,esophagitis,37,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/8facbb8b-c996-43e4-b28a-13fcd3939975.jpg,normal,retroflex-stomach,2454,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/17cfebfb-9754-4ac0-983a-068db010f58b.jpg,normal,retroflex-stomach,2367,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/ea04ab79-4802-45d6-9858-90b4059db3bb.jpg,normal,z-line,2887,-1
+gastrovision,gastrovision/Pylorus/03dde346-db2e-46a2-81bd-dfb1cdadd39d.jpg,normal,Pylorus,5228,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/320adab5-ef79-4c62-8b89-5b6cd3e9176f.jpg,normal,pylorus,4056,-1
+gastrovision,gastrovision/Pylorus/087a421e-4e3a-44ce-9d11-da25e6a29b91.jpg,normal,Pylorus,5224,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/db702685-d336-4df7-bd01-95a555f62d1a.jpg,normal,pylorus,2200,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/b2e9bc6b-dc11-4c0f-91b1-f421a125d2e4.jpg,normal,retroflex-stomach,2381,-1
+ers,ers/precise-samples/0729/samples/frames/000001.png,varices,g36,729,-1
+gastrovision,gastrovision/Normal stomach/0d576944-c4a2-4017-a877-778f10a3735d.jpg,normal,Normal stomach,6210,-1
+ers,ers/precise-samples/0013/samples/frames/000001.png,ulcer,g18,13,-1
+gastrovision,gastrovision/Normal stomach/0a219a4c-c1e9-4cce-827d-8aa4d1543870.jpg,normal,Normal stomach,6666,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/c86bbc28-280d-437f-8e7d-136b80fe1cb4.jpg,normal,z-line,3416,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/bea9709a-d0a4-4719-a7fd-4bfaaecca5ce.jpg,normal,retroflex-stomach,2121,-1
+gastrovision,gastrovision/Normal esophagus/1d69b40e-a1b0-4387-a11d-694ddc094b9c.jpg,normal,Normal esophagus,5414,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/070d2fd5-8669-4b1b-b9a3-607382bd27b0.jpg,normal,retroflex-stomach,2089,-1
+ers,ers/precise-samples/0959/samples/frames/000001.png,polyp,g45,959,-1
+gastrovision,gastrovision/Duodenal bulb/0ab8e570-da28-414f-8e3f-6e485e238e8d.jpg,normal,Duodenal bulb,5128,-1
+gastrovision,gastrovision/Normal stomach/0defdafd-1753-4f78-ae10-12246edfa549.jpg,normal,Normal stomach,6776,-1
+gastrovision,gastrovision/Pylorus/02fe442f-6e1a-4423-a6ea-c409a9ed0d6e.jpg,normal,Pylorus,5530,-1
+gastrovision,gastrovision/Normal stomach/0e4d3370-1811-4e76-bcc4-77d1f6df654d.jpg,normal,Normal stomach,5865,-1
+webatlas,web_atlas/imgs/130.jpg,esophagitis,esophagitis,68,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/a6b4c06b-bfb3-4fdd-98ef-5e164b181f1d.jpg,normal,z-line,3213,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/d9c166cf-ea4e-4777-85cb-23c1eafdd631.jpg,normal,pylorus,3878,-1
+ers,ers/precise-samples/0740/samples/frames/000001.png,polyp,g45,740,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/676daac8-7d03-4386-a2b7-041166bc2de1.jpg,normal,pylorus,2127,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/90fda4da-a8fc-4653-bee4-6a2cfe566658.jpg,normal,retroflex-stomach,1898,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/8ade050d-287e-4da9-bbbc-69c49e362655.jpg,normal,z-line,3269,-1
+ers,ers/precise-samples/0834/samples/frames/000002.png,normal,h03,834,-1
+ers,ers/precise-samples/0902/samples/frames/000002.png,normal,h03,902,-1
+gastrovision,gastrovision/Normal stomach/11b11c8e-4bf8-4a79-8f64-1c8ddbd5094b.jpg,normal,Normal stomach,5862,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/9051daaa-d045-412e-aef4-02d392e9e3c0.jpg,normal,pylorus,2317,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/c4d507c0-deb5-4e7a-8e75-67fa4f976e04.jpg,normal,retroflex-stomach,2611,-1
+gastrovision,gastrovision/Normal stomach/1c45fc3c-04e9-42c7-9095-efff2cef414c.jpg,normal,Normal stomach,6658,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/b86d72db-ecd8-4299-8ac7-3c9f2a8c0681.jpg,normal,z-line,3241,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/057aa31d-34a1-4d2e-85b1-4f1f58d48eb3.jpg,normal,pylorus,3800,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/46b8a660-d4a5-4063-b910-a550c7b03bcc.jpg,normal,pylorus,2197,-1
+ers,ers/precise-samples/0672/samples/frames/000001.png,polyp,g14,672,-1
+ers,ers/precise-samples/0324/samples/frames/000001.png,ulcer,g18,324,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ed06b988-4c02-4329-9d82-3f777f67604e.jpg,normal,pylorus,4374,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/4f1f66d0-97a7-4f46-b00a-605c83ab7e9b.jpg,normal,z-line,3473,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/b435024b-025c-4fe8-8a1f-0b8f2be4280e.jpg,normal,z-line,3272,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/d22eea40-3bb3-4fb5-891e-29d3c7f6c5bd.jpg,normal,retroflex-stomach,1965,-1
+gastrovision,gastrovision/Normal stomach/0ef9d078-7cf1-45a0-aa0a-e499ce967fe8.jpg,normal,Normal stomach,6066,-1
+gastrovision,gastrovision/Duodenal bulb/0b62a7ae-4f0c-4b5a-bd2e-92d1dd0711c7.jpg,normal,Duodenal bulb,5126,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/b6816105-c268-4f1b-a475-6ff85397fc01.jpg,normal,z-line,2978,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/0bba0798-73b4-4d19-a58e-dd715f25c297.jpg,normal,z-line,3264,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/f8fdaeb9-ea8d-48f9-975f-4f61701f3664.jpg,normal,retroflex-stomach,2584,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/a502a8a2-b398-45d7-8116-acc5dbbcaca7.jpg,esophagitis,esophagitis-a,1361,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/8c87be64-848c-405c-a244-16cacc72136b.jpg,normal,pylorus,4123,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/35aa3088-da21-4d5c-bd87-eebb5f842dcc.jpg,normal,pylorus,4134,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/5e7a2379-dc73-4c0a-bca6-be51929c4d40.jpg,normal,retroflex-stomach,2832,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/0f3aebde-22bf-44de-947e-6d48f2a46b33.jpg,normal,pylorus,4415,-1
+gastrovision,gastrovision/Barrett's esophagus/0f7af3e9-5736-4be1-95cf-29ec3de2dbb4.jpg,barretts,Barrett's esophagus,4659,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/e8f580c9-46aa-4c32-b7d4-ba0c21905220.jpg,normal,retroflex-stomach,2364,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/7fab7170-b955-413f-a31c-28f4e4b6db17.jpg,normal,pylorus,4037,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/47b44edf-efc9-493e-a402-0d84a24f5da8.jpg,normal,pylorus,3871,-1
+gastrovision,gastrovision/Normal stomach/016297b9-2585-44ee-8bc0-c597e8f63c45.jpg,normal,Normal stomach,6208,-1
+ers,ers/precise-samples/0044/samples/frames/000006.png,cancer,g26,44,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/a91b084f-2af9-4dbe-abae-5912da1b1916.jpg,normal,retroflex-stomach,1893,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/114bb680-c0f3-4e83-8fe3-64d2e0d25d6c.jpg,esophagitis,esophagitis-a,1488,-1
+ers,ers/precise-samples/0343/samples/frames/000001.png,polyp,g45,343,-1
+gastrovision,gastrovision/Normal stomach/09bf58b4-39db-4cc0-b524-3393ae4deb2e.jpg,normal,Normal stomach,6815,-1
+gastrovision,gastrovision/Pylorus/09c0179f-2e0b-4a5b-b022-cba3f7719a34.jpg,normal,Pylorus,5685,-1
+gastrovision,gastrovision/Duodenal bulb/1ac2d2e0-2076-4d9b-9e9e-9f3a2fb5fdfc.jpg,normal,Duodenal bulb,5181,-1
+gastrovision,gastrovision/Pylorus/30a62e02-9e33-460c-97e1-50bef4b9fe21.jpg,normal,Pylorus,5283,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/16fcb913-399f-49ba-92df-d10db6608929.jpg,normal,z-line,2930,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/8b5d491e-8425-440e-9baf-3a498174c074.jpg,normal,pylorus,2312,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/0f240613-55d3-4bb8-851c-2af253e972f9.jpg,normal,pylorus,3879,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/abcd922e-1aa6-4644-82f8-dd1a798e319d.jpg,esophagitis,esophagitis-a,1400,-1
+gastrovision,gastrovision/Normal stomach/088a73ba-78fa-4dfe-84ce-ec3d141f8ee9.jpg,normal,Normal stomach,5876,-1
+gastrovision,gastrovision/Pylorus/1aff1cda-6cc3-41cc-8476-e15f2bb71072.jpg,normal,Pylorus,5714,-1
+gastrovision,gastrovision/Normal stomach/1a20593d-d8cf-4228-947e-e84dbdfc7327.jpg,normal,Normal stomach,6792,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/767a85ee-ebb1-4b43-8da8-c2f114a44dae.jpg,normal,retroflex-stomach,2583,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0fb82d77-6234-48b4-8728-a9b0f3dfe045.jpg,normal,Gastroesophageal_junction_normal z-line,6471,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/f2607bb6-1f8a-4219-9fdc-af961122ab01.jpg,normal,z-line,3374,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/e4728ac5-c3a4-42b4-bc03-16a90a8685c3.jpg,normal,retroflex-stomach,1913,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/85aaa783-48ca-4bbb-a08a-4e1e862b2e9e.jpg,normal,z-line,3675,-1
+ers,ers/precise-samples/0407/samples/frames/000002.png,varices,g36,407,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/adf14d7e-4447-4ec6-9a5f-0bd70b643fc2.jpg,normal,z-line,2937,-1
+gastrovision,gastrovision/Pylorus/00f9bd71-0891-44f1-9b1a-83d613027f65.jpg,normal,Pylorus,5548,-1
+ers,ers/precise-samples/0902/samples/frames/000003.png,normal,h03,902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/8c231e13-2721-411e-868f-e51d86979224.jpg,normal,pylorus,4472,-1
+gastrovision,gastrovision/Normal stomach/00a9c690-db17-40be-a5c4-da6f749a2911.jpg,normal,Normal stomach,6791,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/17362abb-75d0-40f1-8238-1a4892afd25e.jpg,normal,pylorus,4057,-1
+gastrovision,gastrovision/Normal stomach/02c9b227-ce0c-42b2-bee8-e16d50914402.jpg,normal,Normal stomach,6350,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/7cc9d82b-b027-4bc1-88b6-69b5a8625e52.jpg,esophagitis,esophagitis-b-d,1627,-1
+ers,ers/precise-samples/0332/samples/frames/000002.png,polyp,g45,332,-1
+ers,ers/precise-samples/0644/samples/frames/000002.png,ulcer,g50,644,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/0cf4ae48-6ca3-420c-ac5e-8fd0087b2130.jpg,normal,retroflex-stomach,2418,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/9b1c24c4-2c0f-4c6c-8c0f-c2685f93370f.jpg,normal,retroflex-stomach,1912,-1
+gastrovision,gastrovision/Normal stomach/06a4aa6b-778a-487a-a602-f92b303214c9.jpg,normal,Normal stomach,6801,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/92195197-92a8-43f0-a190-1b699d519576.jpg,esophagitis,esophagitis-a,1249,-1
+gastrovision,gastrovision/Esophagitis/008c30ae-0fe5-4001-9f03-52909d708dad.jpg,esophagitis,Esophagitis,4756,-1
+ers,ers/precise-samples/0902/samples/frames/000018.png,normal,h02,902,-1
+gastrovision,gastrovision/Normal stomach/1a42120d-c14f-4efd-8b57-c785c4568786.jpg,normal,Normal stomach,6343,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/4b941977-d280-47f9-a3d9-b5b8136895c1.jpg,normal,retroflex-stomach,2065,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/98665b16-d262-443e-a71d-4974f322b394.jpg,normal,z-line,3186,-1
+gastrovision,gastrovision/Duodenal bulb/1b55acaa-02b6-477f-b956-539ce150957d.jpg,normal,Duodenal bulb,5109,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/002fa9e5-38e9-4dd8-bb86-f30874ddad12.jpg,normal,Gastroesophageal_junction_normal z-line,6495,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/15713573-d1cc-480a-905e-39e8d2a1a640.jpg,normal,z-line,2904,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/e7d27e24-20b3-4d76-8dd6-94a863e12bc8.jpg,esophagitis,esophagitis-a,1459,-1
+ers,ers/precise-samples/0712/samples/frames/000001.png,ulcer,g18,712,-1
+webatlas,web_atlas/imgs/59.jpg,esophagitis,esophagitis,15,-1
+gastrovision,gastrovision/Barrett's esophagus/07ae5f93-b6bf-4539-813d-ac1dc3347d1b.jpg,barretts,Barrett's esophagus,4733,-1
+gastrovision,gastrovision/Normal stomach/332c09c5-3b5d-4183-af48-7136e7bf62fe.jpg,normal,Normal stomach,6117,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/abe78f4f-4572-4318-809a-f7d4b8133e81.jpg,normal,retroflex-stomach,1917,-1
+ers,ers/precise-samples/0098/samples/frames/000001.png,ulcer,g50,98,-1
+gastrovision,gastrovision/Normal stomach/17d5575e-0cf2-48a7-affa-66c5b4a2af7f.jpg,normal,Normal stomach,6857,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/b8ab8bd9-1db1-45d5-aa96-835464f5f310.jpg,normal,z-line,2902,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/9bc52174-ff47-4bae-aed4-1a63092b2c19.jpg,esophagitis,esophagitis-a,1508,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/747c36fa-b6f0-4920-bf98-5d985f9f2732.jpg,normal,z-line,3463,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/3346543f-2113-4f5d-bc4d-35d472e693ce.jpg,esophagitis,esophagitis-a,1383,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/68fee78e-2ce6-4d5e-822f-3f7b0f8f4d20.jpg,normal,z-line,2888,-1
+gastrovision,gastrovision/Pylorus/02c3b4f8-109d-429c-9dc1-1a8eecc84116.jpg,normal,Pylorus,5588,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/ce6cd5f3-c771-40e3-9089-ef878543a2d1.jpg,normal,retroflex-stomach,2412,-1
+ers,ers/precise-samples/0184/samples/frames/000003.png,cancer,g26,184,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/dfc523a9-7e50-4de4-bb34-514ffc13ea38.jpg,normal,z-line,4341,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/21bef6d1-e610-4131-a03f-2e2132756e30.jpg,normal,Gastroesophageal_junction_normal z-line,6473,-1
+gastrovision,gastrovision/Duodenal bulb/0e959477-ab26-4b21-9474-45186f73e09b.jpg,normal,Duodenal bulb,5186,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0aad1118-6016-477e-a434-35019f581d0a.jpg,normal,Gastroesophageal_junction_normal z-line,5026,-1
+webatlas,web_atlas/imgs/78.jpg,esophagitis,esophagitis,34,-1
+ers,ers/precise-samples/0443/samples/frames/000004.png,varices,g36,443,-1
+ers,ers/precise-samples/1076/samples/frames/000001.png,ulcer,g50,1076,-1
+ers,ers/precise-samples/0755/samples/frames/000004.png,polyp,g45,755,-1
+ers,ers/precise-samples/0007/samples/frames/000002.png,ulcer,g51,7,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/3d7cc851-720a-4af3-91a2-fff859e85dc3.jpg,normal,z-line,2909,-1
+gastrovision,gastrovision/Barrett's esophagus/a9c1a6af-5326-4341-b836-e34229b65dd8.jpg,barretts,Barrett's esophagus,4664,-1
+gastrovision,gastrovision/Normal stomach/0b92395b-736e-4ee7-a9a1-72e027bb459e.jpg,normal,Normal stomach,5998,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/63c763c8-5856-4bb8-bd6e-1c0440798b8f.jpg,normal,retroflex-stomach,2404,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/23fc3529-951b-4f7f-8598-13fc5fec6050.jpg,normal,pylorus,4242,-1
+gastrovision,gastrovision/Normal esophagus/07fd4365-9988-4291-9aa7-f2028bd2596b.jpg,normal,Normal esophagus,5358,-1
+gastrovision,gastrovision/Normal stomach/052db466-740c-4f14-bb35-bc465632d8bf.jpg,normal,Normal stomach,5963,-1
+ers,ers/precise-samples/0992/samples/frames/000008.png,cancer,g26,992,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/54409368-d603-4bde-a89b-34eb8da3a82d.jpg,normal,z-line,3515,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts/0c9e0051-684f-4cad-9bd2-ed081d876249.jpg,barretts,barretts,1163,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/99a0873a-f97f-4ee2-9138-08e181f06bb8.jpg,normal,z-line,2892,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/22479751-2f97-446b-a24a-0139f433c4dc.jpg,esophagitis,esophagitis-a,1438,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/e48b8aa7-1d96-4ea8-8e59-c79797a20487.jpg,normal,z-line,3271,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/d32cbd09-00da-4837-9380-59e019178a77.jpg,normal,retroflex-stomach,2503,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/7a94f763-d6dc-4b38-b676-aeb9b387e78f.jpg,normal,retroflex-stomach,2438,-1
+gastrovision,gastrovision/Normal stomach/0dbbf75d-4f53-48cd-a88c-302297ca5d5b.jpg,normal,Normal stomach,6181,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/149f4233-9fed-434e-ba38-904ddb112089.jpg,normal,pylorus,3861,-1
+gastrovision,gastrovision/Normal stomach/115e5f79-17a4-4628-b12c-25c39589d015.jpg,normal,Normal stomach,6778,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/3035051d-5cf2-45b6-bac7-a39b192ea1b5.jpg,normal,Gastroesophageal_junction_normal z-line,5011,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/3c3ee5b1-d0b7-48ad-a39d-09999060e7c7.jpg,esophagitis,esophagitis-a,1506,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/811816a2-64a7-4d42-ae4d-b05acd905a8f.jpg,esophagitis,esophagitis-b-d,1607,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/732431b6-10d5-4b33-bd95-a6a4b929a83d.jpg,normal,z-line,3451,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/8019bfb3-90c7-4ff1-88e3-60116e5c7a94.jpg,normal,pylorus,3909,-1
+gastrovision,gastrovision/Normal stomach/1f250495-c650-4964-91c9-da6c106a180e.jpg,normal,Normal stomach,6347,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/f95515d6-7185-4775-bdd2-d677308dfe92.jpg,normal,pylorus,3942,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/2c0f3d23-b216-4aea-b04b-f1e0daea2edc.jpg,normal,pylorus,4405,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/2764133c-c66e-4a35-9a54-b0f4f0bd1c2a.jpg,esophagitis,esophagitis-a,1766,-1
+gastrovision,gastrovision/Pylorus/197a933f-f0b9-4e9e-99dc-fbf580fc1f00.jpg,normal,Pylorus,5499,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/1977d4ed-9021-43b9-a3f2-91166dfffb48.jpg,normal,pylorus,2350,-1
+gastrovision,gastrovision/Duodenal bulb/0c782d72-9f52-4af7-b06a-b36298193ebc.jpg,normal,Duodenal bulb,4939,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/f417ff7d-ace1-45b4-aabe-43616bfb6bd9.jpg,normal,z-line,2901,-1
+ers,ers/precise-samples/0145/samples/frames/000003.png,polyp,g45,145,-1
+ers,ers/precise-samples/0672/samples/frames/000005.png,varices,g36,672,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/7f7f8496-911d-4f4f-bbeb-9b7e91e6e4f2.jpg,esophagitis,esophagitis-a,1223,-1
+ers,ers/precise-samples/0992/samples/frames/000012.png,varices,g53,992,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/20f3c680-97c3-44a4-b9cd-665848337652.jpg,normal,z-line,3162,-1
+gastrovision,gastrovision/Duodenal bulb/030b10fb-cd81-4133-89ac-34cae4e1d841.jpg,normal,Duodenal bulb,5148,-1
+gastrovision,gastrovision/Normal stomach/0a5b2d8e-1ae9-4abb-ae26-55bf2040c97b.jpg,normal,Normal stomach,6416,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/f896d0f5-5307-42bb-87b7-402902314d51.jpg,normal,retroflex-stomach,2296,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/3ed6fdc9-9419-4691-9972-813a44d338db.jpg,normal,pylorus,4212,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/c7eb86b7-1b60-4d9c-8fde-05631775d5e5.jpg,normal,z-line,3489,-1
+gastrovision,gastrovision/Normal stomach/1ca80534-8824-4d1d-922c-f436f3ce24f6.jpg,normal,Normal stomach,6803,-1
+ers,ers/precise-samples/0959/samples/frames/000002.png,polyp,g45,959,-1
+ers,ers/precise-samples/0425/samples/frames/000001.png,varices,g53,425,-1
+gastrovision,gastrovision/Normal stomach/00f4c98b-408f-47d5-a82a-89e35a8ae7ba.jpg,normal,Normal stomach,5827,-1
+gastrovision,gastrovision/Normal stomach/0e9ebd5b-eaf9-4a3d-bb56-3498866ffc41.jpg,normal,Normal stomach,6095,-1
+ers,ers/precise-samples/0727/samples/frames/000002.png,ulcer,g18,727,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/82941ddb-f1b0-4ef7-a29e-705920938f6b.jpg,normal,z-line,3572,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/c36b0e1a-7e0a-4b06-a559-342c417af14c.jpg,esophagitis,esophagitis-b-d,1626,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/58872780-ff4d-49bd-8f8e-87edb7d2fe48.jpg,esophagitis,esophagitis-a,1414,-1
+gastrovision,gastrovision/Normal stomach/0c1b1f3c-96c7-43fd-8895-8705d72d1d4a.jpg,normal,Normal stomach,6319,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/50a1005c-351b-4e80-a817-6b82b8d20690.jpg,esophagitis,esophagitis-a,1266,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/5bd1b587-775c-4443-8299-b0fe48ee75a0.jpg,esophagitis,esophagitis-a,1221,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/5a7bc9e7-f2f6-4138-8bbe-abd5b1841529.jpg,normal,pylorus,3837,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/feb1635e-6f7d-4fc5-98fa-6faf3aa8c7ff.jpg,normal,retroflex-stomach,1947,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/30b62e43-0644-4900-91f3-996c52570968.jpg,normal,retroflex-stomach,2441,-1
+ers,ers/precise-samples/0787/samples/frames/000011.png,normal,h01,787,-1
+gastrovision,gastrovision/Normal stomach/0d2e79ed-8302-4f23-9d1b-b6f7a73833ff.jpg,normal,Normal stomach,6838,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/9f541b9f-be19-41b8-afc4-99eb8b73f35f.jpg,normal,pylorus,2346,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/097eb9d6-ff9c-4700-9708-6a0c5b723920.jpg,esophagitis,esophagitis-a,1487,-1
+gastrovision,gastrovision/Duodenal bulb/11dccbda-807f-4979-9bd5-26ec799e533c.jpg,normal,Duodenal bulb,5134,-1
+gastrovision,gastrovision/Normal stomach/0b50d723-6f38-4399-b638-7dc20edb3718.jpg,normal,Normal stomach,6712,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/02a7a210-f047-4852-94f9-b0d844a131d7.jpg,normal,Gastroesophageal_junction_normal z-line,5171,-1
+gastrovision,gastrovision/Barrett's esophagus/07a1f194-3576-4c5f-b415-a5d85077e760.jpg,barretts,Barrett's esophagus,4734,-1
+ers,ers/precise-samples/0241/samples/frames/000007.png,polyp,g45,241,-1
+gastrovision,gastrovision/Gastric polyps/0d22fe3e-1db0-4327-809b-ce979dd85690.jpg,polyp,Gastric polyps,4601,-1
+gastrovision,gastrovision/Pylorus/143b7f01-ccae-499b-885d-f6a94d5c4bb2.jpg,normal,Pylorus,5573,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/1dd5282a-3d1b-4d45-a187-22340a48cb9a.jpg,normal,z-line,2973,-1
+gastrovision,gastrovision/Normal stomach/008c35b5-b7a6-46c1-8339-ae71040aad8a.jpg,normal,Normal stomach,6787,-1
+ers,ers/precise-samples/1081/samples/frames/000002.png,varices,g36,1081,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/329f0a69-0605-4f6b-b90f-093f030a688a.jpg,esophagitis,esophagitis-a,1765,-1
+gastrovision,gastrovision/Normal stomach/0cb9fb41-427d-4fd8-9e3b-79ab6f13f41e.jpg,normal,Normal stomach,6275,-1
+gastrovision,gastrovision/Normal esophagus/00c4ae81-71a8-43da-8121-9fd987997ef9.jpg,normal,Normal esophagus,5272,-1
+ers,ers/precise-samples/0606/samples/frames/000023.png,normal,h03,606,-1
+gastrovision,gastrovision/Gastric polyps/e6014878-e6d4-4d29-aca8-107c1ac63d6a.jpg,polyp,Gastric polyps,4648,-1
+ers,ers/precise-samples/0362/samples/frames/000008.png,ulcer,g50,362,-1
+gastrovision,gastrovision/Normal stomach/03f42652-aede-4975-b6e0-f1dc3b854c56.jpg,normal,Normal stomach,6135,-1
+gastrovision,gastrovision/Pylorus/0b1f2ac7-ec74-483a-91a9-2c810545440a.jpg,normal,Pylorus,5511,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/8070953e-09a2-4c32-88b5-d2374757f317.jpg,normal,z-line,3086,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/b07f2b60-718d-4674-9ea4-b18f2c72538c.jpg,esophagitis,esophagitis-a,1372,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/barretts-short-segment/08b531a8-4ae8-44d7-b92c-69566e84a519.jpg,barretts,barretts-short-segment,1189,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/11e11e8b-5e70-4181-845f-1ab20f46ecfd.jpg,normal,Gastroesophageal_junction_normal z-line,6373,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/2f0aa680-ef94-48cb-87fd-6570d99c4773.jpg,normal,retroflex-stomach,2695,-1
+gastrovision,gastrovision/Normal stomach/0390543b-631b-48ea-b8bf-873697a76168.jpg,normal,Normal stomach,6171,-1
+gastrovision,gastrovision/Normal stomach/0bc5efa7-4175-4d74-9941-8b1435a630fe.jpg,normal,Normal stomach,6064,-1
+gastrovision,gastrovision/Duodenal bulb/0bbbd25e-14e3-42a9-afee-8905b99f1faa.jpg,normal,Duodenal bulb,4888,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/f9db58ef-32e6-4762-8bcf-8c3c0fdaeb74.jpg,normal,z-line,3277,-1
+ers,ers/precise-samples/0443/samples/frames/000005.png,varices,g36,443,-1
+gastrovision,gastrovision/Normal stomach/0dc6d6e0-f16a-466d-b3a7-1eb1e16bc1e1.jpg,normal,Normal stomach,6827,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/682b67e1-2105-4b71-a918-f5d7d3331660.jpg,normal,retroflex-stomach,1998,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/c6f7a570-6e21-4c1b-bae3-ff3b4d3da920.jpg,normal,z-line,3602,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0c5efedd-49ba-4f9b-b880-27743ea794a5.jpg,normal,Gastroesophageal_junction_normal z-line,6580,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/0b06f801-2700-4bb6-8833-9d01f27bea70.jpg,normal,pylorus,3888,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/1bc60e68-519b-4475-899e-ea039ace34dd.jpg,esophagitis,esophagitis-b-d,1648,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/d30a60ac-84f6-4635-a27e-363712498f1a.jpg,normal,retroflex-stomach,2488,-1
+gastrovision,gastrovision/Normal stomach/0edfba16-7e01-41d4-9db9-e6d3c048ce3a.jpg,normal,Normal stomach,6447,-1
+ers,ers/precise-samples/0787/samples/frames/000009.png,normal,h01,787,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/7f2becb9-ddda-43cb-9289-0bdf1ffc1f10.jpg,normal,retroflex-stomach,2011,-1
+ers,ers/precise-samples/0954/samples/frames/000001.png,varices,g53,954,-1
+gastrovision,gastrovision/Pylorus/0b856ebe-cd56-42a7-8428-a1ec4eac8f11.jpg,normal,Pylorus,5318,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/39b6305f-d92a-4865-a32a-54c13b8a4a53.jpg,esophagitis,esophagitis-a,1404,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/fb31e2c2-c8db-42b3-bbf1-564e42076a8e.jpg,esophagitis,esophagitis-b-d,1709,-1
+gastrovision,gastrovision/Normal stomach/0f03f4b8-0416-4503-a8f1-30b7253fccc3.jpg,normal,Normal stomach,6156,-1
+webatlas,web_atlas/imgs/96.jpg,esophagitis,esophagitis,52,-1
+ers,ers/precise-samples/0773/samples/frames/000003.png,esophagitis,g63,773,-1
+ers,ers/precise-samples/0755/samples/frames/000007.png,polyp,g45,755,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/3f538692-ad90-4096-b3c4-7a54f1c3f9c7.jpg,normal,z-line,3614,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/5f564055-56d2-4039-89ed-668d5a6b3df1.jpg,esophagitis,esophagitis-a,1306,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/a071d3ce-da2c-43f5-ab53-118be4dce7b6.jpg,normal,pylorus,4485,-1
+gastrovision,gastrovision/Normal stomach/18cfa89d-c78c-40e2-8d14-5b252f26ef1f.jpg,normal,Normal stomach,6143,-1
+gastrovision,gastrovision/Duodenal bulb/38005090-6416-47d7-82a6-7a062b632881.jpg,normal,Duodenal bulb,4895,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/05ba51d6-d6ac-492a-ad7d-4e144e22d0c9.jpg,normal,pylorus,4107,-1
+gastrovision,gastrovision/Normal stomach/0f3beb97-3f9d-4670-8108-9a6f70532c21.jpg,normal,Normal stomach,6630,-1
+gastrovision,gastrovision/Pylorus/050625a8-803b-4336-b160-036c9be06d14.jpg,normal,Pylorus,5514,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/9f28057b-9578-4ed2-844d-78ac6e944d40.jpg,normal,retroflex-stomach,1944,-1
+gastrovision,gastrovision/Pylorus/0e9c8424-306b-49c3-afae-a6d339381f7f.jpg,normal,Pylorus,5618,-1
+gastrovision,gastrovision/Normal stomach/0fe851aa-73c5-4919-b2dd-c520fafeb44d.jpg,normal,Normal stomach,6220,-1
+ers,ers/precise-samples/1016/samples/frames/000003.png,ulcer,g50,1016,-1
+ers,ers/precise-samples/0992/samples/frames/000011.png,varices,g53,992,-1
+gastrovision,gastrovision/Barrett's esophagus/82c5a7b4-27c8-437b-992d-5011d743410a.jpg,barretts,Barrett's esophagus,4658,-1
+gastrovision,gastrovision/Normal esophagus/07ca7682-59d9-4ba7-bc12-cb98551face4.jpg,normal,Normal esophagus,5346,-1
+gastrovision,gastrovision/Normal stomach/07b818d6-501a-4a62-ba75-855eb9992ee0.jpg,normal,Normal stomach,6148,-1
+ers,ers/precise-samples/0899/samples/frames/000003.png,ulcer,g18,899,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/c407e19d-b77e-498a-a0e0-777c4a83228c.jpg,normal,z-line,3169,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/9a58b580-ff6f-42e3-9b6f-c70df5a1a562.jpg,normal,z-line,3689,-1
+ers,ers/precise-samples/0305/samples/frames/000002.png,ulcer,g50,305,-1
+gastrovision,gastrovision/Duodenal bulb/39d10e67-b91f-4714-a48b-2cf3562c5689.jpg,normal,Duodenal bulb,4931,-1
+gastrovision,gastrovision/Pylorus/06abdf82-5c65-4826-8463-a30b7e8f1c47.jpg,normal,Pylorus,5735,-1
+ers,ers/precise-samples/0241/samples/frames/000009.png,polyp,g45,241,-1
+gastrovision,gastrovision/Normal stomach/0b20c63f-7c23-427a-82a3-e0382c1ed0af.jpg,normal,Normal stomach,5846,-1
+gastrovision,gastrovision/Pylorus/0ac227d0-8df6-43b1-83f6-a8fcd448bd65.jpg,normal,Pylorus,5716,-1
+webatlas,web_atlas/imgs/119.jpg,esophagitis,esophagitis,66,-1
+gastrovision,gastrovision/Gastric polyps/730a4c7d-807c-4a04-9ba7-7318d0273577.jpg,polyp,Gastric polyps,4592,-1
+ers,ers/precise-samples/0424/samples/frames/000002.png,cancer,g11,424,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/d0cf302e-94cb-4d56-b0f6-ceda5f2e0134.jpg,normal,z-line,2875,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/ef00d9f3-97c3-4f68-9c64-e78a5f2265a5.jpg,normal,pylorus,2335,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/958eca28-0ca9-405c-8c78-cf852825d8b9.jpg,normal,z-line,3050,-1
+gastrovision,gastrovision/Normal stomach/01fef22d-1627-441c-b638-8096a048fe4e.jpg,normal,Normal stomach,6603,-1
+ers,ers/precise-samples/0781/samples/frames/000005.png,normal,h02,781,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/0fa388ff-ce9d-4e7b-b297-a9a43909e5ef.jpg,normal,pylorus,4538,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/5438dae8-d837-448a-a717-424e2f0d6a42.jpg,esophagitis,esophagitis-a,1734,-1
+ers,ers/precise-samples/0520/samples/frames/000002.png,polyp,g45,520,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/1047c7af-d0c8-42f0-8825-929451659ced.jpg,normal,pylorus,2214,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/784baa05-c4ad-44ea-8e57-79926c48104a.jpg,normal,z-line,3065,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0c40e34f-844f-475e-88d1-0883e56560fe.jpg,normal,Gastroesophageal_junction_normal z-line,6599,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/1be8a954-c85b-4e52-93fc-b9ce7cbdf440.jpg,normal,Gastroesophageal_junction_normal z-line,5074,-1
+gastrovision,gastrovision/Duodenal bulb/0e693892-285b-4fca-a777-da85309472f4.jpg,normal,Duodenal bulb,5113,-1
+ers,ers/precise-samples/0522/samples/frames/000001.png,polyp,g45,522,-1
+ers,ers/precise-samples/0552/samples/frames/000001.png,varices,g36,552,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/83bcbc9b-9f14-4260-8e8c-04a42937cee9.jpg,normal,z-line,3057,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/2df87ff5-acd3-4705-a009-6c862beb2a7e.jpg,esophagitis,esophagitis-a,1531,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/27604001-81d4-4e4e-b397-4697f4345138.jpg,esophagitis,esophagitis-a,1367,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0ca737bf-bf86-4732-8077-12081c643362.jpg,normal,Gastroesophageal_junction_normal z-line,5157,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/18be1254-0299-45b4-be01-c8c80ea0d4cb.jpg,normal,retroflex-stomach,2827,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/bb420dba-6d27-4e5a-8bc3-4b48790753a6.jpg,esophagitis,esophagitis-a,1265,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/495989bd-72fa-4636-80d4-150c1a4c7dbd.jpg,normal,pylorus,4576,-1
+gastrovision,gastrovision/Normal stomach/049fb5fe-30c9-4f78-8218-369ebbe29d3b.jpg,normal,Normal stomach,6165,-1
+webatlas,web_atlas/imgs/121.jpg,esophagitis,esophagitis,67,-1
+ers,ers/precise-samples/0424/samples/frames/000006.png,cancer,g11,424,-1
+gastrovision,gastrovision/Duodenal bulb/023e77d4-0b00-4796-87df-4c7076762732.jpg,normal,Duodenal bulb,4951,-1
+gastrovision,gastrovision/Normal stomach/1a54c921-d7a0-47e8-876f-1e98f1b7fc1c.jpg,normal,Normal stomach,6409,-1
+gastrovision,gastrovision/Barrett's esophagus/13ea6cdf-f10c-42d5-a02a-6839100a060e.jpg,barretts,Barrett's esophagus,4655,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/7f22ed07-7de1-43d5-9c67-6648f501c280.jpg,normal,retroflex-stomach,2743,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/c1e79856-07bc-430b-92d5-cd5f8f8e62c8.jpg,esophagitis,esophagitis-a,1366,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/4651ded5-09c3-40ec-9ed0-e45fdadcd591.jpg,normal,pylorus,4393,-1
+gastrovision,gastrovision/Gastric polyps/1af1e6d5-e1af-4daf-b6e1-f545503415eb.jpg,polyp,Gastric polyps,4624,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/0fc084c5-2750-43ae-954c-ce8f3a39119c.jpg,normal,Gastroesophageal_junction_normal z-line,5010,-1
+gastrovision,gastrovision/Normal stomach/ifzMsO-E.jpg,normal,Normal stomach,6245,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/063c2b78-94f8-4746-9882-bacf6f8f2bcd.jpg,normal,retroflex-stomach,2801,-1
+gastrovision,gastrovision/Normal stomach/0006c07b-4c78-4c3a-8858-9da5a5f5bbe6.jpg,normal,Normal stomach,6059,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/aeb7c606-9c32-42ed-9bb3-4bc8d636e793.jpg,normal,pylorus,3955,-1
+gastrovision,gastrovision/Normal stomach/0e2a545a-db66-4086-80ca-246e67f3b36f.jpg,normal,Normal stomach,5968,-1
+gastrovision,gastrovision/Normal stomach/0e2bf77b-a460-43c7-a902-3ee7110d71c7.jpg,normal,Normal stomach,6082,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/1467495a-793b-47cb-b957-787670f81468.jpg,normal,pylorus,4168,-1
+gastrovision,gastrovision/Pylorus/2ae49093-4b59-486e-92e2-909f0eeeea2b.jpg,normal,Pylorus,5263,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/e2797df6-9150-4dfe-bf0b-1cd45ec471d1.jpg,normal,z-line,3692,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/e20b3577-81fd-4769-8d46-6ed02727ffa2.jpg,normal,z-line,3011,-1
+ers,ers/precise-samples/0461/samples/frames/000002.png,polyp,g31,461,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/f835db5a-3554-420f-8c93-ed47a2bc87df.jpg,normal,z-line,3371,-1
+ers,ers/precise-samples/0732/samples/frames/000004.png,ulcer,g50,732,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/308a467c-a655-4ce6-bfbc-c94d4be1c81e.jpg,normal,pylorus,4222,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/abaa58f1-1170-412f-a40f-30cedc0ad27c.jpg,normal,retroflex-stomach,1962,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/6f852233-23da-4dda-98f5-159796143bc9.jpg,normal,pylorus,4331,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/68d4e802-901d-496f-91bb-96421e0535f5.jpg,esophagitis,esophagitis-b-d,1827,-1
+ers,ers/precise-samples/0098/samples/frames/000003.png,ulcer,g50,98,-1
+gastrovision,gastrovision/Normal stomach/0b6d8a7f-03f7-435b-9e9d-c5fab48b8a50.jpg,normal,Normal stomach,6724,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/a9f9ebc0-3936-4e90-9e6d-e98911f6d008.jpg,normal,retroflex-stomach,2792,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/f7f59a81-7bf8-41c9-9448-d665d9e4de9b.jpg,normal,retroflex-stomach,2834,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/758aae29-f358-4cda-8e89-595a08c76d1f.jpg,normal,pylorus,4209,-1
+gastrovision,gastrovision/Normal esophagus/0aee9326-7d33-4de9-89c7-650f1a6d349f.jpg,normal,Normal esophagus,5356,-1
+gastrovision,gastrovision/Normal stomach/0e4f50ed-4dd7-4bcb-a60d-873d13ed9084.jpg,normal,Normal stomach,6237,-1
+ers,ers/precise-samples/0286/samples/frames/000001.png,polyp,g45,286,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/pylorus/0a2ed767-ac9e-4922-b25c-9eb3dae85f66.jpg,normal,pylorus,4071,-1
+ers,ers/precise-samples/0763/samples/frames/000005.png,varices,g36,763,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/z-line/19b70245-0218-4018-a622-a3b87f778ffd.jpg,normal,z-line,3476,-1
+gastrovision,gastrovision/Gastric polyps/154f8499-88b1-4b17-9011-925ef852f4f4.jpg,polyp,Gastric polyps,4647,-1
+gastrovision,gastrovision/Normal esophagus/0da7329e-8848-4099-9c08-fb129fbe7ee3.jpg,normal,Normal esophagus,5445,-1
+ers,ers/precise-samples/0606/samples/frames/000016.png,normal,h02,606,-1
+ers,ers/precise-samples/0781/samples/frames/000004.png,normal,h02,781,-1
+gastrovision,gastrovision/Normal stomach/05a0a2c7-a4df-48de-9b39-01feb33eaeb6.jpg,normal,Normal stomach,5738,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-b-d/90471f07-e1c4-4073-a113-d0e81d11e49e.jpg,esophagitis,esophagitis-b-d,1806,-1
+ers,ers/precise-samples/0470/samples/frames/000002.png,cancer,g39,470,-1
+ers,ers/precise-samples/0130/samples/frames/000001.png,esophagitis,g63,130,-1
+webatlas,web_atlas/imgs/107.jpg,esophagitis,esophagitis,63,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/pathological-findings/esophagitis-a/0fb1976c-05f1-4640-b5cb-1b8435f0bfde.jpg,esophagitis,esophagitis-a,1780,-1
+gastrovision,gastrovision/Gastroesophageal_junction_normal z-line/137f6895-3e8a-4598-a641-dda84c328bcf.jpg,normal,Gastroesophageal_junction_normal z-line,5063,-1
+hyperkvasir,hyperkvasir/labeled-images/upper-gi-tract/anatomical-landmarks/retroflex-stomach/f529f147-9c30-4363-a825-5444b1241681.jpg,normal,retroflex-stomach,2592,-1
+ers,ers/precise-samples/0755/samples/frames/000003.png,polyp,g45,755,-1
