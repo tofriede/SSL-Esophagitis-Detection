@@ -1,0 +1,10 @@
+model: vit_small_patch16_224
+checkpoint: output/train/vit_small_imagnet1k/final_eval
+multi_seed: true
+results_dir: output/val/vit_small_imagnet1k
+split: test
+num_classes: 2
+include_index: true
+topk: 2
+fullname: true
+no_console_results: true

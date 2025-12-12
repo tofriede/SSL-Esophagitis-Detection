@@ -1,0 +1,10 @@
+model: vit_base_patch16_dinov3_qkvb.lvd1689m
+checkpoint: output/train/vit_base_dinov3_lvd1689m/final_eval
+multi_seed: true
+results_dir: output/val/vit_base_dinov3_lvd1689m
+split: test
+num_classes: 2
+include_index: true
+topk: 2
+fullname: true
+no_console_results: true

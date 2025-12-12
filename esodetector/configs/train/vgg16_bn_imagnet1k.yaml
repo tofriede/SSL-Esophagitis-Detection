@@ -1,0 +1,35 @@
+batch_size: 64
+bce_loss: true
+epochs: 100
+eval_metric: auc_pr
+log_interval: 20
+lr: 0.001
+model: vgg16_bn
+num_classes: 2
+output: 'output/train/vgg16_bn_imagnet1k'
+experiment: 'final_eval'
+pretrained: true
+repeat_class: 1
+repeat_factor: 5  
+sched: cosine
+scale:
+- 0.85
+- 1.0
+train_split: train
+val_split: val
+warmup_epochs: 5
+workers: 4
+train_interpolation: bicubic
+train_crop_mode: rkrr
+crop_pct: 1.0
+crop_mode: border
+vflip: 0.5
+rotation: true
+opt: adamw
+opt_betas: [0.9, 0.999]
+seed:
+- 0
+- 42
+- 84
+- 126
+- 168

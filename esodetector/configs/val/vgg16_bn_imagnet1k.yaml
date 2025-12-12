@@ -1,0 +1,10 @@
+model: vgg16_bn
+checkpoint: output/train/vgg16_bn_imagnet1k/final_eval
+multi_seed: true
+results_dir: output/val/vgg16_bn_imagnet1k
+split: test
+num_classes: 2
+include_index: true
+topk: 2
+fullname: true
+no_console_results: true

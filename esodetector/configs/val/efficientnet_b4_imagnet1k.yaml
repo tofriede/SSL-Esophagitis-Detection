@@ -1,0 +1,10 @@
+model: efficientnet_b4
+checkpoint: output/train/efficientnet_b4_imagnet1k/final_eval
+multi_seed: true
+results_dir: output/val/efficientnet_b4_imagnet1k
+split: test
+num_classes: 2
+include_index: true
+topk: 2
+fullname: true
+no_console_results: true

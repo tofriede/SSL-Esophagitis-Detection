@@ -1,0 +1,10 @@
+model: densenet121
+checkpoint: output/train/densenet121_imagnet1k/final_eval
+multi_seed: true
+results_dir: output/val/densenet121_imagnet1k
+split: test
+num_classes: 2
+include_index: true
+topk: 2
+fullname: true
+no_console_results: true
