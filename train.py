@@ -400,50 +400,6 @@ def _parse_args() -> Tuple[argparse.Namespace, str]:
     return args, args_text
 
 
-def main() -> None:
-    utils.setup_default_logging()
-    args, args_text = _parse_args()
-    
-    # Initialize device modules and distributed setup BEFORE seed loop
-    if args.device_modules:
-        for module in args.device_modules:
-            importlib.import_module(module)
-
-    if torch.cuda.is_available():
-        torch.backends.cuda.matmul.allow_tf32 = True
-        torch.backends.cudnn.benchmark = True
-
-    args.prefetcher = not args.no_prefetcher
-    args.grad_accum_steps = max(1, args.grad_accum_steps)
-    device = utils.init_distributed_device(args)
-    
-    if args.distributed:
-        _logger.info(
-            'Training in distributed mode with multiple processes, 1 device per process.'
-            f'Process {args.rank}, total {args.world_size}, device {args.device}.')
-    else:
-        _logger.info(f'Training with a single process on 1 device ({args.device}).')
-    assert args.rank >= 0
-    
-    # Handle multiple seeds
-    seeds = args.seed if isinstance(args.seed, list) else [args.seed]
-    
-    if len(seeds) > 1:
-        _logger.info(f'Running training with {len(seeds)} different seeds: {seeds}')
-    
-    for seed_idx, seed in enumerate(seeds):
-        if len(seeds) > 1:
-            _logger.info(f'\n{"="*80}')
-            _logger.info(f'Starting training run {seed_idx + 1}/{len(seeds)} with seed {seed}')
-            _logger.info(f'{"="*80}\n')
-        
-        # Update args with current seed
-        args.seed = seed
-        
-        # Run training for this seed
-        _run_training(args, args_text, seed, len(seeds) > 1, device)
-
-
 def _run_training(
     args: argparse.Namespace,
     args_text: str,
@@ -1343,6 +1299,50 @@ def validate(
     ])
 
     return metrics
+
+
+def main() -> None:
+    utils.setup_default_logging()
+    args, args_text = _parse_args()
+    
+    # Initialize device modules and distributed setup BEFORE seed loop
+    if args.device_modules:
+        for module in args.device_modules:
+            importlib.import_module(module)
+
+    if torch.cuda.is_available():
+        torch.backends.cuda.matmul.allow_tf32 = True
+        torch.backends.cudnn.benchmark = True
+
+    args.prefetcher = not args.no_prefetcher
+    args.grad_accum_steps = max(1, args.grad_accum_steps)
+    device = utils.init_distributed_device(args)
+    
+    if args.distributed:
+        _logger.info(
+            'Training in distributed mode with multiple processes, 1 device per process.'
+            f'Process {args.rank}, total {args.world_size}, device {args.device}.')
+    else:
+        _logger.info(f'Training with a single process on 1 device ({args.device}).')
+    assert args.rank >= 0
+    
+    # Handle multiple seeds
+    seeds = args.seed if isinstance(args.seed, list) else [args.seed]
+    
+    if len(seeds) > 1:
+        _logger.info(f'Running training with {len(seeds)} different seeds: {seeds}')
+    
+    for seed_idx, seed in enumerate(seeds):
+        if len(seeds) > 1:
+            _logger.info(f'\n{"="*80}')
+            _logger.info(f'Starting training run {seed_idx + 1}/{len(seeds)} with seed {seed}')
+            _logger.info(f'{"="*80}\n')
+        
+        # Update args with current seed
+        args.seed = seed
+        
+        # Run training for this seed
+        _run_training(args, args_text, seed, len(seeds) > 1, device)
 
 
 if __name__ == '__main__':

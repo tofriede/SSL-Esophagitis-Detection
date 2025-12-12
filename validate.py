@@ -198,6 +198,46 @@ def find_checkpoint_files(checkpoint_path: str) -> List[str]:
     return sorted(checkpoint_files)
 
 
+def save_results(
+    df: pd.DataFrame,
+    results_filename: str,
+    results_format: str = 'csv',
+    filename_col: str = 'filename'
+) -> None:
+    np.set_printoptions(threshold=maxsize)
+    results_filename += _FMT_EXT[results_format]
+    if results_format == 'parquet':
+        df.set_index(filename_col).to_parquet(results_filename)
+    elif results_format == 'json':
+        df.set_index(filename_col).to_json(results_filename, indent=4, orient='index')
+    elif results_format == 'json-records':
+        df.to_json(results_filename, lines=True, orient='records')
+    elif results_format == 'json-split':
+        df.to_json(results_filename, indent=4, orient='split', index=False)
+    else:
+        df.to_csv(results_filename, index=False)
+
+
+def write_metric_results(
+    results_file: str,
+    results: Any,
+    format: str = 'csv'
+) -> None:
+    with open(results_file, mode='w') as cf:
+        if format == 'json':
+            json.dump(results, cf, indent=4)
+        else:
+            if not isinstance(results, (list, tuple)):
+                results = [results]
+            if not results:
+                return
+            dw = csv.DictWriter(cf, fieldnames=results[0].keys())
+            dw.writeheader()
+            for r in results:
+                dw.writerow(r)
+            cf.flush()
+
+
 def validate_single_checkpoint(
     args: argparse.Namespace,
     checkpoint_path: str,
@@ -468,7 +508,6 @@ def validate_single_checkpoint(
         print(f'--result')
         print(df.set_index(args.filename_col).to_json(orient='index', indent=4))
     
-    # Restore original results directory
     args.results_dir = original_results_dir
     
     return results
@@ -478,7 +517,6 @@ def main() -> None:
     setup_default_logging()
     args = _parse_args()
 
-    # might as well try to do something useful...
     args.pretrained = args.pretrained or not args.checkpoint
 
     if torch.cuda.is_available():
@@ -487,7 +525,6 @@ def main() -> None:
     
     # Handle multi-seed validation
     if args.multi_seed and args.checkpoint:
-        # Check if checkpoint is a directory
         if os.path.isdir(args.checkpoint) and not args.checkpoint.endswith('.pth.tar'):
             _logger.info(f'Multi-seed mode enabled. Searching for model_best.pth.tar files in: {args.checkpoint}')
             checkpoint_files = find_checkpoint_files(args.checkpoint)
@@ -500,59 +537,15 @@ def main() -> None:
             
             for checkpoint_file in checkpoint_files:
                 parent_dir = os.path.basename(os.path.dirname(checkpoint_file))
-                
                 _logger.info(f'\n{"="*80}')
                 _logger.info(f'Processing checkpoint: {checkpoint_file}')
                 _logger.info(f'Results subdirectory: {parent_dir}')
                 _logger.info(f'{"="*80}\n')
-                
-                # Run validation for this checkpoint
                 validate_single_checkpoint(args, checkpoint_file, results_subdir=parent_dir)
-            
+
             return
     
-    # Single checkpoint validation (original behavior)
     validate_single_checkpoint(args, args.checkpoint)
-
-
-def save_results(
-    df: pd.DataFrame,
-    results_filename: str,
-    results_format: str = 'csv',
-    filename_col: str = 'filename'
-) -> None:
-    np.set_printoptions(threshold=maxsize)
-    results_filename += _FMT_EXT[results_format]
-    if results_format == 'parquet':
-        df.set_index(filename_col).to_parquet(results_filename)
-    elif results_format == 'json':
-        df.set_index(filename_col).to_json(results_filename, indent=4, orient='index')
-    elif results_format == 'json-records':
-        df.to_json(results_filename, lines=True, orient='records')
-    elif results_format == 'json-split':
-        df.to_json(results_filename, indent=4, orient='split', index=False)
-    else:
-        df.to_csv(results_filename, index=False)
-
-
-def write_metric_results(
-    results_file: str,
-    results: Any,
-    format: str = 'csv'
-) -> None:
-    with open(results_file, mode='w') as cf:
-        if format == 'json':
-            json.dump(results, cf, indent=4)
-        else:
-            if not isinstance(results, (list, tuple)):
-                results = [results]
-            if not results:
-                return
-            dw = csv.DictWriter(cf, fieldnames=results[0].keys())
-            dw.writeheader()
-            for r in results:
-                dw.writerow(r)
-            cf.flush()
 
 
 if __name__ == '__main__':
