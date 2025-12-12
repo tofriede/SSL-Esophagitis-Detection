@@ -2,6 +2,16 @@
 
 This repository contains the code for esophagitis detection in upper gastrointestinal endoscopy images using discriminative self-supervised learning. We demonstrate that domain-specific pre-training using DINOv3 on unlabeled upper GI endoscopy images significantly improves esophagitis detection performance compared to supervised ImageNet pre-training.
 
+<br/>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/04f7f99f-b7ab-42ac-94a8-c1dbea4e2849" height=450 alt="pretraining_finetuning_overview">
+  
+  <i>Overview of the training pipeline employed in this study</i>
+</div>
+
+<br/>
+
 ## DINOv3 Self-Supervised Pre-Training
 
 ### Training
