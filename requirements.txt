@@ -1,0 +1,7 @@
+timm
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+python-dotenv
