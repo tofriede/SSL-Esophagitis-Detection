@@ -21,6 +21,7 @@ For self-supervised pre-training, please use [the official DINOv3 code](https://
 ### Pre-trained Models
 
 ViT models pre-trained on upper gastrointestinal endoscopy images (UpperGI-400K). These models are vision backbones that can be plugged to other models for endoscopy downstream tasks.
+
 <table>
   <thead>
     <tr>
@@ -51,6 +52,22 @@ ViT models pre-trained on upper gastrointestinal endoscopy images (UpperGI-400K)
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+If you want to use one of the pre-trained models for feature extraction, take a look at the `UpperGIFeatureExtractor` class in `feature_extractor.py`.
+
+```python
+import torch
+
+from feature_extractor import UpperGIFeatureExtractor
+
+model = UpperGIFeatureExtractor(size="base")
+
+img = torch.randn(1, 3, 224, 224)
+features = model(img)
+# features is a (1, num_features) shaped tensor
+```
 
 ## Supervised Fine-tuning for Esophagitis Detection
 
