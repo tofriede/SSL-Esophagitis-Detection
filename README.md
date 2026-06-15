@@ -1,5 +1,7 @@
 # Discriminative Self-Supervised Pre-Training for Esophagitis Detection in Upper GI Endoscopy Images
 
+[ :scroll: [`Paper`](https://proceedings.mlr.press/v315/friedetzki26a.html)] [ :book: [`BibTeX`](#citation)]
+
 This repository contains the code for esophagitis detection in upper gastrointestinal endoscopy images using discriminative self-supervised learning. We demonstrate that domain-specific pre-training using DINOv3 on unlabeled upper GI endoscopy images significantly improves esophagitis detection performance compared to supervised ImageNet pre-training.
 
 <br/>
@@ -164,12 +166,16 @@ python validate.py --config esodetector/configs/val/vit_large_dinov3_upperGI400k
 If you use this code or find our work helpful, please cite:
 
 ```bibtex
-@inproceedings{friedetzki2025discriminative,
-    title={Discriminative Self-Supervised Pre-Training for Esophagitis Detection in Upper GI Endoscopy Images},
-    author={Tobias Friedetzki and Naveen Chandraiah and Emil Svoboda and Pavel Pecina and Frank Puppe and Adrian Krenzer},
-    booktitle={Submitted to Medical Imaging with Deep Learning},
-    year={2025},
-    url={https://openreview.net/forum?id=oNy0M8rWCw},
-    note={under review}
+@inproceedings{friedetzki2026discriminative,
+  title={Discriminative Self-Supervised Pre-Training for Esophagitis Detection in Upper GI Endoscopy Images},
+  author={Friedetzki, Tobias and Chandraiah, Naveen and Svoboda, Emil and Pecina, Pavel and Puppe, Frank and Krenzer, Adrian},
+  booktitle={Proceedings of The 9th International Conference on Medical Imaging with Deep Learning},
+  pages={1137--1152},
+  year={2026},
+  volume={315},
+  series={Proceedings of Machine Learning Research},
+  publisher={PMLR},
+  url={https://proceedings.mlr.press/v315/friedetzki26a.html},
 }
+
 ```
